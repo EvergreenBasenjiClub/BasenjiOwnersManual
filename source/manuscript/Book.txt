@@ -1,10 +1,18 @@
 frontmatter.md
 
+Introduction.md
+Your-Basenji.md
+
 mainmatter.md
 
 Ch1-About-Your-Basenji.md
 Ch2-Living-with-a-Basenji.md
+Ch3-Caring-For-Your-Basenji.md
+Ch4-Basenji-Activities.md
+Ch5-About-The-Evergreen-Basenji-Club.md
+
 
 backmatter.md
 
+Reference-Library.md
 index.md

@@ -1,5 +1,6 @@
 # Dropbox / LeanPub
 .dropbox
+/source/convert_html/
 /source/preview/
 /source/published/
 

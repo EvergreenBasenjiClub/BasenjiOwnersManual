@@ -38,45 +38,45 @@ Sleek short coat, pricked ears, and a curly tail are Basenji trademarks.  Wrinkl
 The Basenji is happy to fit his mood to those he loves---yet he is a proud dog always, not bowing and scraping.  He is a staunch believer in personal and property rights.  The silent hunter is also a silent watch dog.  A sound outside brings him noiselessly to the door, to await an intruder.  He will give the house-breaker a rough time.  Owners will testify to his phenomenal intelligence, his inventiveness, his curiosity, and his clownish sense of humor.  He is a quiet, satisfied dog when desired.  Yet no dog enjoys play more, whether in the home or the field.  He will roughhouse and race. However, when his owner is ready to call it quits, the little Basenji is content to lie at the feet of his master just as his forebears did thousands of years ago in the courts of Ancient Egypt, his wrinkled forehead imparting an anxious expression to his face---the look of one who, having known man from the beginning, is terribly worried about the outcome. _**Have fun and enjoy your new pet!**_
 
 
-## CHARACTERISTIC BASENJI BEHAVIOR
-
-Hi, my name is Lady.  Being a basenji, the EBC asked me to write an article about what basenjis are really like.  The first thing you should know is that each one of us has our own personality.  Yet, we share many unique characteristics.
-
-You may have read the story about when God created all the animals he had a little piece of each one left over so he put all these pieces in one package and called it a Basenji.  That is why at times we have qualities of the dog, cat, fox, deer, horse, mule, gazelle, kangaroo, and unicorn (oh, but you wouldn't know about that one), and any other animal you can think of.
-
-Most of us are pretty smart, although not in the way some humans appreciate.  Our unique combination of intelligence & independence makes us a challenge to live with on occasion.  When we see an opportunity, we will take advantage of it.
-
-We are known as both sight and scent hounds; however, we can be selectively hard of hearing and blind!  We sometimes love to ignore being called.
-
-Some of my favorite pastimes are napping by the heat vent or in front of the fire.  Licking my human dry after her bath.  I love to roll in hair (preferably freshly shampooed).  My greeting to many guests is to climb up beside them and roll in their hair---kind of unnerving to some people.
-
-I like to sing & yodel & dance when my favorite humans visit the house.  Raiding the wastebasket,
-
-Shredding Kleenex or unrolling TP down the hall.  Rolling on a wet towel or shredded Kleenex.  Q-tips are my favorite popsicle!  However, a pair of underwear will do nicely for dessert.  I like to use my paws to explore & play or to clean my face when dirty.
-
-I love to run free and chase rabbits, squirrels and birds out of my yard, and occasionally, I catch a few.
-
-I like to do my crazy dog routine---this is where I race through the house at full speed, bouncing off the couch, flying off the walls, and across the bed in a big loop over and over until I get tired.  Then I will stop, panting with a big smile on my face.  "Going on a tear" at the end of my leash, around and around until I fly off the ground.
-
-Cleaning up under the high chair after my kid eats.  I clean up under birdcages persistently. Seed shells are almost as good as the actual seeds.
-
-It isn't unusual for me to take an interest in other animals' poop, possibly rolling in it or sampling a taste.  I love to nibble rabbit droppings, perhaps in lieu of the actual rabbit, but I hear they say that rabbits can pass parasites to me.
-
-Baby diapers.  Oooh do I love baby diapers!!
-
-I heard someone say basenjis like to sleep on the foot of the bed.  HA!---I prefer under the covers.  If that's not possible, then up by the head of my human.  When my master or mistress grabs a quilt or afghan or comfy throw, I run to get under too.
-
-I love to snuggle and be scratched and I am happiest where the action is.
-
-I like to check out the window to see what the weather is like before I go outside in the morning. If it's raining, I'd rather wait hours than to venture out and get my feet wet.  I resemble a ballet dancer when in wet grass, yet a few of my kin actually like to swim.  Snow can be fun though.
-
-Although I don't normally bark, I can make a wide variety of noises from cute little yodels to loud screams and howls.  I can even sound like a little kid crying & screaming.  Sometimes my human and neighbors are not very happy with my noisemaking. And do I love to chew! (see chewing section page 20).
-
-Some of my kin have masters who don't permit some of these antics.  They hide waste paper baskets and close doors.  They have taught my kin to stay off the furniture and to sleep in dog beds or a den at night.
-
-Now that you know me a little better, I hope you'll find my antics endlessly amusing.  I try to be entertaining.
-
-...Love, Lady.  
+A> ## CHARACTERISTIC BASENJI BEHAVIOR
+A> 
+A> Hi, my name is Lady.  Being a basenji, the EBC asked me to write an article about what basenjis are really like.  The first thing you should know is that each one of us has our own personality.  Yet, we share many unique characteristics.
+A> 
+A> You may have read the story about when God created all the animals he had a little piece of each one left over so he put all these pieces in one package and called it a Basenji.  That is why at times we have qualities of the dog, cat, fox, deer, horse, mule, gazelle, kangaroo, and unicorn (oh, but you wouldn't know about that one), and any other animal you can think of.
+A> 
+A> Most of us are pretty smart, although not in the way some humans appreciate.  Our unique combination of intelligence & independence makes us a challenge to live with on occasion.  When we see an opportunity, we will take advantage of it.
+A> 
+A> We are known as both sight and scent hounds; however, we can be selectively hard of hearing and blind!  We sometimes love to ignore being called.
+A> 
+A> Some of my favorite pastimes are napping by the heat vent or in front of the fire.  Licking my human dry after her bath.  I love to roll in hair (preferably freshly shampooed).  My greeting to many guests is to climb up beside them and roll in their hair---kind of unnerving to some people.
+A> 
+A> I like to sing & yodel & dance when my favorite humans visit the house.  Raiding the wastebasket,
+A> 
+A> Shredding Kleenex or unrolling TP down the hall.  Rolling on a wet towel or shredded Kleenex.  Q-tips are my favorite popsicle!  However, a pair of underwear will do nicely for dessert.  I like to use my paws to explore & play or to clean my face when dirty.
+A> 
+A> I love to run free and chase rabbits, squirrels and birds out of my yard, and occasionally, I catch a few.
+A> 
+A> I like to do my crazy dog routine---this is where I race through the house at full speed, bouncing off the couch, flying off the walls, and across the bed in a big loop over and over until I get tired.  Then I will stop, panting with a big smile on my face.  "Going on a tear" at the end of my leash, around and around until I fly off the ground.
+A> 
+A> Cleaning up under the high chair after my kid eats.  I clean up under birdcages persistently. Seed shells are almost as good as the actual seeds.
+A> 
+A> It isn't unusual for me to take an interest in other animals' poop, possibly rolling in it or sampling a taste.  I love to nibble rabbit droppings, perhaps in lieu of the actual rabbit, but I hear they say that rabbits can pass parasites to me.
+A> 
+A> Baby diapers.  Oooh do I love baby diapers!!
+A> 
+A> I heard someone say basenjis like to sleep on the foot of the bed.  HA!---I prefer under the covers.  If that's not possible, then up by the head of my human.  When my master or mistress grabs a quilt or afghan or comfy throw, I run to get under too.
+A> 
+A> I love to snuggle and be scratched and I am happiest where the action is.
+A> 
+A> I like to check out the window to see what the weather is like before I go outside in the morning. If it's raining, I'd rather wait hours than to venture out and get my feet wet.  I resemble a ballet dancer when in wet grass, yet a few of my kin actually like to swim.  Snow can be fun though.
+A> 
+A> Although I don't normally bark, I can make a wide variety of noises from cute little yodels to loud screams and howls.  I can even sound like a little kid crying & screaming.  Sometimes my human and neighbors are not very happy with my noisemaking. And do I love to chew! (see chewing section page 20).
+A> 
+A> Some of my kin have masters who don't permit some of these antics.  They hide waste paper baskets and close doors.  They have taught my kin to stay off the furniture and to sleep in dog beds or a den at night.
+A> 
+A> Now that you know me a little better, I hope you'll find my antics endlessly amusing.  I try to be entertaining.
+A> 
+A> ...Love, Lady.  
 
 ![](images/BAS23.png)
 

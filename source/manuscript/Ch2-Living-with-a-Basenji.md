@@ -150,15 +150,15 @@ Table Training: Place on table and gently examine and groom the pup (be sure to 
 
 ### Fetch:
 
-  1. Start with whatever the pup is interested in (ball, sock, toy).
+1. Start with whatever the pup is interested in (ball, sock, toy).
 
-  2. When chasing after object well, introduce dumbbells (leather, wood, and metal) and cotton gloves.
+2. When chasing after object well, introduce dumbbells (leather, wood, and metal) and cotton gloves.
 
-  3. When chasing new items well, encourage the pup to bring the items back to you.
+3. When chasing new items well, encourage the pup to bring the items back to you.
 
-  4. Provide a lot of praise.
+4. Provide a lot of praise.
 
-  5. Always stop with the pup still wanting more.
+5. Always stop with the pup still wanting more.
 
 ### Age: 8th through 12th week
 
@@ -176,45 +176,45 @@ _**all other training should be daily, individual training sessions out of sight
 
 ### Substitution:
 
-  a) Do not allow unacceptable behavior to be carried through; say _"No"_, substitute a correct behavior and praise.  Some substitutions can be toy or chewie for chewing whatever; sit for jumping on people; down position for climbing on furniture.
+1. Do not allow unacceptable behavior to be carried through; say _"No"_, substitute a correct behavior and praise.  Some substitutions can be toy or chewie for chewing whatever; sit for jumping on people; down position for climbing on furniture.
 
-  b) If more of a correction is required, grasp the pup's muzzle but do not squeeze, say _"No"_, substitute and praise.
+2. If more of a correction is required, grasp the pup's muzzle but do not squeeze, say _"No"_, substitute and praise.
 
-  c) Also praise the pup sometimes when he is just being good.
+3. Also praise the pup sometimes when he is just being good.
 
-  d) At about 11 weeks the muzzle correction will no longer work.  At that time switch to the collar correction---grasp collar, give a small tug upward (do not lift pup's feet of the floor) release, substitute and praise.
+4. At about 11 weeks the muzzle correction will no longer work.  At that time switch to the collar correction---grasp collar, give a small tug upward (do not lift pup's feet of the floor) release, substitute and praise.
 
 ### Lead Training:
 
-  1. Carry pup outside and put down, stand still and follow him about---no tugs, no pulling, nor force.
+1. Carry pup outside and put down, stand still and follow him about---no tugs, no pulling, nor force.
 
-  2. When confident and moving freely about, introduce lead control.
+2. When confident and moving freely about, introduce lead control.
 
-    a) Very gently give a tug when the pup reaches the end of the leash.  As soon as he stops tugging or looks around at you, stop tugging and praise.
+  1. Very gently give a tug when the pup reaches the end of the leash.  As soon as he stops tugging or looks around at you, stop tugging and praise.
 
-    b) As he learns to stay within the confines of the lead without pulling, begin to shorten the lead by taking up the slack in your hand. Also maneuver the pup to be walking at your left side.
+  2. As he learns to stay within the confines of the lead without pulling, begin to shorten the lead by taking up the slack in your hand. Also maneuver the pup to be walking at your left side.
 
-    c) Praise the pup whenever he is not tugging. Keep training sessions short.
+  3. Praise the pup whenever he is not tugging. Keep training sessions short.
 
-    d) When he is sitting on command on the table and responding to leash control, put the two together and begin proper heeling exercises.
+  4. When he is sitting on command on the table and responding to leash control, put the two together and begin proper heeling exercises.
 
 ### Sit, Stand, and Down:
 
-  1. Five minute session on grooming table.
+1. Five minute session on grooming table.
 
-    a) Have the pup on the table doing your regular grooming and examination and introduce the sit---insert your right hand with the palm up into his collar on top of his neck with the fingers pointing to the tail; put left palm on his shoulders and slide it along his back, over his rear and down his legs to the hock where you gently apply pressure while saying _"Sit."_  He will sit on your hand.  Remove your left hand and stroke his back gently and give gentle praise to keep him sitting to the count of 12.
+  1. Have the pup on the table doing your regular grooming and examination and introduce the sit---insert your right hand with the palm up into his collar on top of his neck with the fingers pointing to the tail; put left palm on his shoulders and slide it along his back, over his rear and down his legs to the hock where you gently apply pressure while saying _"Sit."_  He will sit on your hand.  Remove your left hand and stroke his back gently and give gentle praise to keep him sitting to the count of 12.
 
-    b) Turn collar so the right hand is under the pup's chin with the palm down.  Place your left hand just behind the right front leg and say _"Stand"_ as you gently pull forward on the collar and slide the left hand along his tummy until you reach the rear legs. Apply gentle pressure to his tummy if necessary to get him up on his feet.  Turn your left hand over and gently stroke his tummy, continue quiet praise and keep him standing to the count of 12.
+  2. Turn collar so the right hand is under the pup's chin with the palm down.  Place your left hand just behind the right front leg and say _"Stand"_ as you gently pull forward on the collar and slide the left hand along his tummy until you reach the rear legs. Apply gentle pressure to his tummy if necessary to get him up on his feet.  Turn your left hand over and gently stroke his tummy, continue quiet praise and keep him standing to the count of 12.
 
-    c) Repeat sequence several times and if he breaks position at any time, just reposition as before.
+  3. Repeat sequence several times and if he breaks position at any time, just reposition as before.
 
-    d) Over time, increase the count and decrease the amount of help your hands give.
+  4. Over time, increase the count and decrease the amount of help your hands give.
 
-    e) After several days of **Sit/Stand**, add the **Down**.  With the pup at your left side, place your left arm over his shoulders and left hand with palm side to back of his leg behind his left front leg.  Your right palm goes behind his right front leg, then caress his legs in an up-and-down motion while talking softly (soothingly).  When he is mesmerized by the tone of your voice and the gentle stroking relaxes him to the point of collapse, gently slide his feet out from under him.  (Do not grab his legs with your thumbs and fingers.)  Say in the same voice, _"Down"_. Some pressure can be applied to his shoulders with your left arm if necessary.  Continue stroking and talking with him in the down position to the count of 12.
+  5. After several days of **Sit/Stand**, add the **Down**.  With the pup at your left side, place your left arm over his shoulders and left hand with palm side to back of his leg behind his left front leg.  Your right palm goes behind his right front leg, then caress his legs in an up-and-down motion while talking softly (soothingly).  When he is mesmerized by the tone of your voice and the gentle stroking relaxes him to the point of collapse, gently slide his feet out from under him.  (Do not grab his legs with your thumbs and fingers.)  Say in the same voice, _"Down"_. Some pressure can be applied to his shoulders with your left arm if necessary.  Continue stroking and talking with him in the down position to the count of 12.
 
-    f) Repeat entire sequence of three exercises, increasing the count and decreasing your help until he is doing them on his own.
+  6. Repeat entire sequence of three exercises, increasing the count and decreasing your help until he is doing them on his own.
 
-  2. Introduce nail clipping on table.
+2. Introduce nail clipping on table.
 
 Come: Introduce "come" by calling frequently and praising when he responds.
 
@@ -229,9 +229,9 @@ Most basenji breeders and longtime owners have found that a basenji accustomed t
 
 For the owner, the crate proves to be an excellent solution to one of the most trying problems to be encountered:  how to restrain his puppy or dog from getting into trouble, such as chewing a hole in the new sofa, sampling that pretty green plant growing on the window sill, tearing all the paper off that brand new toilet roll and dragging it all through the house, or "getting even" for being left home when he wanted to go along.  Finally, travel is much easier with a dog accustomed to being crated.
 
-1) Traveling is much safer if your dog is accustomed to being crated when traveling in a car. The chance of an accidental escape is greatly reduced at rest stops when passengers get out to stretch their legs.  A loose dog in the car may distract the driver or interfere with his ability to drive, possibly resulting in an accident.
+1. Traveling is much safer if your dog is accustomed to being crated when traveling in a car. The chance of an accidental escape is greatly reduced at rest stops when passengers get out to stretch their legs.  A loose dog in the car may distract the driver or interfere with his ability to drive, possibly resulting in an accident.
 
-2) Many motel owners are more willing to allow you to stay with your dog if he has been taught to stay quietly in his crate.
+2. Many motel owners are more willing to allow you to stay with your dog if he has been taught to stay quietly in his crate.
 
 For most new basenji owners, one of the greatest concerns is "How do I crate train my puppy?"
 
@@ -243,19 +243,19 @@ Your puppy may already have been introduced to his crate by his breeder.  He wil
 
 In the course of crate training your puppy, several things should be done:
 
-  1. Prior to crating your puppy for the first time, allow your puppy ample opportunity to investigate and explore the crate.  But don't force him.
+1. Prior to crating your puppy for the first time, allow your puppy ample opportunity to investigate and explore the crate.  But don't force him.
 
-  2. When no one is free to supervise the puppy, it is probably best to crate him if he cannot otherwise be restrained from mischief.
+2. When no one is free to supervise the puppy, it is probably best to crate him if he cannot otherwise be restrained from mischief.
 
-  3. Nighttime is usually the most unnerving part of crate training, so here are a few suggestions:
+3. Nighttime is usually the most unnerving part of crate training, so here are a few suggestions:
 
-    (a) DO NOT place the crate in someone's bedroom. Instead, find a quiet place where the temperature is moderate, as far from your sleeping quarters as possible.  If this place can be darkened, so much the better.
+  1. DO NOT place the crate in someone's bedroom. Instead, find a quiet place where the temperature is moderate, as far from your sleeping quarters as possible.  If this place can be darkened, so much the better.
 
-    (b) At bed time after feeding, toileting him, and saying good night to your puppy, place him in his crate, close the latch, turn off any lights if possible, and walk away.
+  2. At bed time after feeding, toileting him, and saying good night to your puppy, place him in his crate, close the latch, turn off any lights if possible, and walk away.
 
-    (c) It is very likely that your puppy will cry and complain very loudly about being left alone. Avoid returning to his crate to quiet him, and do not take him out.  If the crying bothers you, turn up your TV or radio, get ear plugs, or bury your head under the pillow and dream of when this stage is all over, for it will pass.  This can last from 1 night to 1 week.  The less you give in, the shorter the time.
+  3. It is very likely that your puppy will cry and complain very loudly about being left alone. Avoid returning to his crate to quiet him, and do not take him out.  If the crying bothers you, turn up your TV or radio, get ear plugs, or bury your head under the pillow and dream of when this stage is all over, for it will pass.  This can last from 1 night to 1 week.  The less you give in, the shorter the time.
 
-    (d) With each succeeding night the crying will get less and less.  Within a few nights, your puppy will be sleeping peacefully and quietly through the night.
+  4. With each succeeding night the crying will get less and less.  Within a few nights, your puppy will be sleeping peacefully and quietly through the night.
 
 
 ## HOUSE TRAINING
@@ -307,15 +307,15 @@ As with all canines, certain basic obedience is necessary to develop a good pet/
 
 The intent of this article is to give you, the master, some guidelines in training your basenji. Though no two basenjis are alike, and training should be tailored to the nature of each individual dog, these guidelines will provide you with the basic knowledge to begin training your basenji.
 
-_Consistency_ is the key to successful training. 
-
-_Consistently_ use the same words for commands.
-
-_Consistently_ demand that your dog obey your commands---by either placing or correcting.
-
-_Consistently_ correct your dog each time he makes the mistake.  To allow behavior at times but not at other times will only confuse the dog.
-
-_Consistently_ practice the exercises until they are thoroughly learned.
+> _Consistency_ is the key to successful training. 
+>
+> _Consistently_ use the same words for commands.
+>
+> _Consistently_ demand that your dog obey your commands---by either placing or correcting.
+>
+> _Consistently_ correct your dog each time he makes the mistake.  To allow behavior at times but not at other times will only confuse the dog.
+>
+> _Consistently_ practice the exercises until they are thoroughly learned.
 
 ![](images/BAS22.png)
 
@@ -331,7 +331,9 @@ Maintaining your Basenji's attention during the training session is of the utmos
 
 While you are working with your dog, choose simple brief commands that your dog can learn through repetition.  State the command words in a "commanding voice".  Do not question or ask the dog (Sit?) or threaten the dog to obey.  Only state the command one time.  Remember, "Sit, sit" is a "no no".  If your dog does not respond on the first command, think about the reason he is not responding.  This reason will dictate your response:
 
+{width="90%"}
 |REASON                     |ACTION                        |
+|---------------------------|------------------------------|
 |Does not know exercise well|Placement or guidance & praise|
 |Frightened or unsure       |Placement or guidance & praise|
 |Distracted                 |Correction                    |

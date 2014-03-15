@@ -29,21 +29,20 @@ Also, during the first few months of life, the pup should be protected from unne
 
 The following schedule of immunizations is a guideline based on a consensus of opinions of vets and breeders.  Using this schedule as a guideline, you should consult your breeder and your vet as to what vaccinations your pup has already had, what vaccinations should be given, and on what schedule.
 
-{title="Immunization Schedule"}
-|         |DHLP-PV or|     |      |      |
-|         |DA 2PL-PV |Parvo|Corona|Rabies|
-|---------|:--------:|:---:|:----:|:----:|
-|PUPPIES  |          |     |      |      |
-|6 weeks:*|    X     |     |  X   |      |
-|8 weeks: |    X     |     |  X   |      |
-|10 weeks:|          |  X  |  X   |   X  |
-|12 weeks:|    X     |     |  X   |      |
-|16 weeks:|    X     |     |      |      |
-|6 months:|          |  X  |  X   |      |
-|6 mo.--1 yr:|check with state laws||| X |
-|ADULTS   |          |     |      |      |
-|yearly booster:| X  |     |  X   |      |
-|every 3 years:|     |     |      |   X  |
+{title="Immunization Schedule", width="90%"}
+|         |DHLP-PV or DA 2PL-PV|Parvo|Corona|Rabies|
+|---------|:------------------:|:---:|:----:|:----:|
+|PUPPIES  |                    |     |      |      |
+|6 weeks:*|         X          |     |  X   |      |
+|8 weeks: |         X          |     |  X   |      |
+|10 weeks:|                    |  X  |  X   |   X  |
+|12 weeks:|         X          |     |  X   |      |
+|16 weeks:|         X          |     |      |      |
+|6 months:|                    |  X  |  X   |      |
+|6 mo.--1 yr:|check with state laws| |      |   X  |
+|ADULTS   |                    |     |      |      |
+|yearly booster:|   X          |     |  X   |      |
+|every 3 years:|               |     |      |   X  |
 
 * For puppies sold at this age (not recommended), effectiveness of vaccine is questionable
 
@@ -142,11 +141,11 @@ Symptoms for the dogs begin very early and owners notice that the affected anima
 
 In the early 1970's, much research into this disease proved that PK deficiency in the Basenji was due to a recessive gene. This means that basenjis could be divided into three categories:
 
-  1. Those clear of the disease (a dog which has 2 genes for normal PK activity).
+1. Those clear of the disease (a dog which has 2 genes for normal PK activity).
 
-  2. A carrier (a dog which has one gene for normal PK activity and one gene for PK deficiency). This is a healthy animal which will not have HA, which should have normal behavior and activity, and a normal life span.
+2. A carrier (a dog which has one gene for normal PK activity and one gene for PK deficiency). This is a healthy animal which will not have HA, which should have normal behavior and activity, and a normal life span.
 
-  3. An affected dog (a dog which carries two genes for PK deficiency).
+3. An affected dog (a dog which carries two genes for PK deficiency).
 
 The extensive research done at that time led to sensitive testing that could distinguish between the clear, carrier, and affected animals.
 
@@ -360,7 +359,7 @@ But it wasn't all downhill from the surgery---you see, this fellow was still a b
 
 "Boo-Boo" was a sweet, gentle, lovable and loving puppy before all this happened.  Remarkably, he is still pretty much the same puppy.  He is more defensive with his peers than the others are.  He expects preferential treatment from humans, because he had so much attention for so long.  He and his people are all working on this. During "Boo-Boo's" illness, he would be crated to get over his occasional snits or panics.  The door of the crate is left open when it's not in use, and now when "Boo-Boo" throws a tantrum, he runs into the crate where he can scream or fuss without harm or punishment.  Sometimes his owners remind him, by saying "Boo-Boo, go crate yourself."  He does.
 
-Some people will wonder why he wasn't just "put down".  This kind of decision is seldom as easy as it looks to an outsider.  There was no way of knowing up front the severity of his problem, and the length and difficulty of his recovery.   Would they go through it again?  YES! His life and his safety were their responsibility, and he did survive. He is a marvelous little fellow.  It was fun to see him experience his first Christmas, a year late, and to watch him learn to play---free of pain.  ["Boo-Boo" has since earned a Junior Courser title in lure coursing.  Though he’s not fast, he enjoys being able to run free and chase the "bunny"].
+Some people will wonder why he wasn't just "put down".  This kind of decision is seldom as easy as it looks to an outsider.  There was no way of knowing up front the severity of his problem, and the length and difficulty of his recovery.   Would they go through it again?  YES! His life and his safety were their responsibility, and he did survive. He is a marvelous little fellow.  It was fun to see him experience his first Christmas, a year late, and to watch him learn to play---free of pain.  ["Boo-Boo" has since earned a Junior Courser title in lure coursing.  Though he's not fast, he enjoys being able to run free and chase the "bunny"].
 
 The vet who treated him said this puppy's experience was the worst of its type he had seen. This trait and problem are not specific to our breed, and a simple operation is usually sufficient to remove the ingested object.  Usually the stories are humorous, and the solutions relatively simple, although expensive. 
 

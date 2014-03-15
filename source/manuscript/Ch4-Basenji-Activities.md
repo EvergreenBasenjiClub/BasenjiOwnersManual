@@ -128,35 +128,35 @@ Give your dog a 'leader' he can respect by being patient, consistent, and fair. 
 
 The Canine Good Citizen Test is to demonstrate that the dog can be trained to behave in the home, in public places, and in the presence of other dogs. It is not a competitive program, but a program of certification. In order to receive the title and certificate for CGC, your dog must be able to pass ten tests which demonstrate that the handler is in control of the dog under conditions the dog is likely to encounter on a daily basis. Tests are on a pass/fail basis only. The tests can be done in any order, but the dog must pass all ten to qualify for the CGC title.
 
-  1.  Accepting a Friendly Stranger.
+1. Accepting a Friendly Stranger.
 
-  2.  Sitting Politely for Petting.
+2. Sitting Politely for Petting.
 
-  3.  Appearance and Grooming.
+3. Appearance and Grooming.
 
-  4.  Walking on a Loose Leash---Out for a Walk.
+4. Walking on a Loose Leash---Out for a Walk.
 
-  5.  Walking Through a Crowd.
+5. Walking Through a Crowd.
 
-  6.  Sit and Down on Command. Staying in Place.
+6. Sit and Down on Command. Staying in Place.
 
-  7.  Praise/Interaction.
+7. Praise/Interaction.
 
-  8.  Reaction to Another Dog.
+8. Reaction to Another Dog.
 
-  9.  Reaction to Distractions.
+9. Reaction to Distractions.
 
-  10. Supervised Isolation.
+10. Supervised Isolation.
 
 Before passing the dog, the evaluator also considers the following:
 
-  1.  Is this the kind of dog he or she would like to own?
+1. Is this the kind of dog he or she would like to own?
 
-  2.  Is this the kind of dog that would be good with children?
+2. Is this the kind of dog that would be good with children?
 
-  3.  Is this the kind of dog that he or she would welcome as a neighbor?
+3. Is this the kind of dog that he or she would welcome as a neighbor?
 
-  4. Is this the kind of dog that makes the owner happy and isn't making someone else unhappy?
+4. Is this the kind of dog that makes the owner happy and isn't making someone else unhappy?
 
 
 ## JUNIOR SHOWMANSHIP

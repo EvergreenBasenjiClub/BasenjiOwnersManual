@@ -10,4 +10,4 @@ Raising a puppy to be a valued member of your family is rewarding, but at times 
 
 _(wrong image, correct one missing?)_
 
-![](images/BAS57.TIF)
+![](images/BAS57.png)

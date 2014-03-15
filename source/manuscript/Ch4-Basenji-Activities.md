@@ -1,7 +1,7 @@
 # Basenji Activities
 
 
-![](images/BAS35.TIF)
+![](images/BAS35.png)
 
 ## SHOWING YOUR BASENJI IN CONFORMATION
 
@@ -41,7 +41,7 @@ Leash training for show begins with a good leash, referred to as a lead.  Many t
 
 Begin by walking your dog slowly to one side or the other. Coax him along with bait, call his name ("puppy, puppy" etc.).  Be gentle---don't drag him. Keep the lead taut, by gathering the remaining slack in your hand.  The leash should be taut enough so the pup can't put his nose to the ground. Use bait to help keep his head up and looking forward.  Move him slowly up and down a sidewalk or yard.  In this exercise, pattern training is established.  This is where differences in a show lead and your general walking leash play a role. After pattern training a while, your puppy will recognize the differences in these two leads.  He will know what your expectations of him are when a show lead is on.  The showing of a dog's movement is done in trotting gait.  Practice controlling this gait at a slow speed, maintaining a straight line for both you and the dog.  Sidewalk lines and parking lot stripes are very helpful.  Dogs are usually gaited off your left side, but you may be required to move him on your right in some situations, so practice both.
 
-![](images/BAS36.TIF)
+![](images/BAS36.png)
 
 As your puppy gets older and is easily lead.  You may wish to use a fine jewelry link choke instead of nylon.  Remember, these are of light construction and are not intended for lead pops or yanking your dog along.  Light lead pops with a choke may be used with an older dog whose lead training has been previously established.  Refrain from doing this with a green puppy.
 
@@ -105,7 +105,7 @@ Basenjis are not a common sight in the obedience ring.  They do have a reputatio
 
 There is much discouragement out there for a novice basenji trainer.  Experienced obedience trainers may tell you to find an easier breed to train.  Even some basenji breeders may tell you that basenjis are not meant to be obedience trained.  This is a decision and commitment you will have to make for yourself and your dog.
 
-![](images/BAS40.TIF)
+![](images/BAS40.png)
 
 There is much support if you do decide to train in obedience. Many basenjis have done very well in the obedience ring, earning advanced titles. Trainers are realizing the intelligence and stubbornness of the Basenji, and how quickly they get bored with the basic obedience routines.
 
@@ -173,7 +173,7 @@ Open Senior---for juniors age 14 and under 18 who have had 3 previous wins in th
 
 Ribbons and sometime trophies are awarded for first through fourth places in each class.  Winners of the four classes compete for Best Junior Showman---and a rosette and trophy.
 
-![](images/BAS49.TIF)
+![](images/BAS49.png)
 
 Top winning Juniors compete for a variety of local and national honors.  The Basenji Club of America recognizes top-winning juniors each year. Records and achievements of all Basenji Junior Showmen are published in the Junior Showmanship column of the quarterly Bulletin of the BCOA; the BCOA also presents a trophy or award to the Top Scoring Junior Showman for each year.   Juniors achieving a certain number of Open Class wins during a year are eligible to enter limited Junior Showmanship competitions, such as The Westminster Kennel Club Junior Limited at Madison Square Garden, the ultimate experience of a Junior Showman's career!
 
@@ -181,4 +181,4 @@ Junior Showmanship is a fun and educational activity for youngsters, dogs, and t
 
 Juniors are usually welcome at local breed club classes, as well as many all breed training classes. Occasionally, former Junior Showmen offer handling classes especially for Juniors. Check with your breeder or with Junior members of a local basenji club, who will be glad to help your Junior get started.
 
-![](images/BAS57.TIF)
+![](images/BAS57.png)

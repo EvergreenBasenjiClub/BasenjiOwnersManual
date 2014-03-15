@@ -81,7 +81,7 @@ In the spring, your dog may 'blow his coat' or lose his fuzzy undercoat if he ha
 
 If you are going to show your dog, the amount of grooming required is dependent on your dog's coat. Some dogs may need a bit of trimming to give the tail or fringe along the back of his legs a neater appearance.  Ask someone to show you the correct way to do this trimming, if you think your dog needs it, so it will appear neat and not just hacked away.  Most breeders do not trim the whiskers or the hair inside the ears, as these serve as sensory and protective functions necessary for the health of your dog.
 
-![](images/BAS35.TIF)
+![](images/BAS35.png)
 
 There are various sprays and coat conditioners available that, depending on your dog's coat, you may or may not want to try. Consult the AKC rules pertaining to their use for the show ring. Most dogs require only a bath the night before a show.
 
@@ -111,7 +111,7 @@ When the Pupillary Membrane does not deteriorate completely by age 14 days, it i
 
 PPMs come in all shapes, sizes, and severities, may be very extensive and visible to the naked eye, or may be very small and require considerable magnification to be seen.  As a general rule, the condition does not significantly reduce vision but in extreme cases may cause marked reduction in vision or even blindness.  It has been estimated that the majority of basenjis do have PPM to some degree.
  
-![](images/BAS26.TIF)
+![](images/BAS26.png)
 
 There are four levels/degrees of PPM.  The least offensive affection is "iris to iris."  This means that the PPM strand(s) are attached on each end to the iris, thus not affecting the vision of the hound in any way although apparently the membrane did not detach correctly.  Young puppies who are diagnosed as being mildly affected can be tested again at one year of age and perhaps be diagnosed as "clear." This is because the young puppy’s membranes may not have had a chance to completely detach before the first exam.  PPM that does not clear up by one year of age is not going to.  The second level of PPM is "iris to lens;"  more often than not, this level of PPM is "permanent" and will not improve to the point of testing "clear."  The third level of PPM is "iris to cornea," this can sometimes be seen by the naked eye.  It appears to be a light blue iridescent spot on the eyeball.  The worst level of PPM is "iris sheets" that literally shield the eye with a light blue cast that can look "pretty" to the novice puppy buyer.
 
@@ -183,7 +183,7 @@ The symptoms of this disorder may appear similar to IPSID. The dog will be unthr
 
 Diagnoses can be made by having a stool sample checked for the presence or absence of the pancreatic enzymes.  Treatment consists of a combination of an easily digestible diet and supplemental pancreatic enzymes.
 
-![](images/BAS30.TIF)
+![](images/BAS30.png)
 
 
 ### Umbilical Hernia
@@ -235,7 +235,7 @@ Discourage your dog from drinking from puddles that form near driveways and auto
 
 Pet dishes should be cleaned regularly and made of heavy ceramic or stainless steel, the latter being preferred.  Plastic bowls are acceptable, but your basenji may regard these as toys and empty their contents just to be able to carry them off to his favorite chewing spot.
 
-![](images/BAS21.TIF)
+![](images/BAS21.png)
 
 Feeding should be done on a regular time schedule, regardless of the number of feedings per day. This allows the dog's digestive system to establish a biological clock to produce stomach acids, along with periods of rest for the system.  This timing is very important in housebreaking because it helps to establish a regular time for elimination.  An adult dog should be fed once or twice daily.  Puppies under six months of age should be fed three times daily, then twice daily until at least 12 months of age.  The amount and schedule should be adjusted to the weight of the dog.  Weigh your dog occasionally, to monitor weight gain or loss. Ribs & hip bones should be felt but not seen.
 
@@ -296,7 +296,7 @@ _**Saturday and Sunday**_
 11:10 Potty and crate for the night
 
 
-![](images/BAS43.TIF)
+![](images/BAS43.png)
 
 ## FIRST AID
 
@@ -354,7 +354,7 @@ It was uncertain whether the puppy could survive the shock of the operation even
 
 Throughout the healing process, the puppy was in periodic pain; at first the pain was constant.  At the beginning of his recovery, he did not want to eat---when he was finally off IV's and allowed to eat normally.  He lost drastic amounts of weight. He progressed from mushy special diets to quality canned food to thoroughly dissolved dry food mixed with canned.  He ate tiny, frequent meals.  Each meal was followed by severe intestinal cramps and pain, as his shortened intestines tried to do their job.  There were months of virtually sleepless nights, for the puppy and his humans.  Specific exercises were a must in order to prevent adhesions, stimulate blood flow, and encourage healing. But finally one night he was sleeping a little easier, and one day he tried to play with his active, joyful sisters.  No one knew if he would ever really be "normal" again, or if this was "as good as it gets",  but 8 months after the surgery, his people could see that the days of pain and stress were fewer than those without it.
 
-![](images/BAS48.TIF)
+![](images/BAS48.png)
 
 But it wasn't all downhill from the surgery---you see, this fellow was still a basenji.  As his health improved, so did his appetite, and his normal chewing habits.  His area was made even more "chew-proof" than that of the other puppies, and someone was always delegated to watch "Boo-Boo", as he became known.  One day, he and his mother destroyed the hard plastic base of a soft dog bed. That time he got medication that caused him to vomit and thus get rid of anything that might be in his stomach before it could reach his intestines. It is hard to believe, but 3 weeks later he was still occasionally vomiting pieces of plastic.
 
@@ -377,7 +377,7 @@ Signs of your basenji being in season are, in varying degrees, mood changes, fli
 
 False pregnancies are a common phenomenon among basenjis. Due to hormonal changes, she may exhibit weight gain, mild breast swelling, and nesting behavior.  No treatment is generally needed for a false pregnancy unless there is actual milk production.
 
-![](images/BAS44.TIF)
+![](images/BAS44.png)
 
 Preventive breeding may be accomplished in many ways.  These include surgical spaying or neutering, drug contraceptives for either sex, and isolation.  Surgical spaying or neutering is the best way to prevent unwanted pups.  Spaying the female is the removal of the ovaries.  The uterus should also be removed to prevent possible infection later on. Neutering is the removal of both the male dog's testicles. Dogs with one or both of the testes undescended should be neutered.  This is a serious fault that you should not allow the male dog to pass to future generations.  Removal of the recessed testicle is necessary to complete the neutering and to assure the dog's good health. Cutting of the tubes (vasectomy) is effective but does not have any health or behavioral benefits and is not recommended.
 
@@ -403,4 +403,4 @@ If you are placed in the position of expecting an unwanted litter, there are ter
 
 Should you find your basenji expecting an unwanted litter, talk to your dog breeder or the reference listed at the beginning of this manual. Decisions on the future of the pups are a matter of ethics. 
 
-![](images/BAS54.TIF)
+![](images/BAS54.png)

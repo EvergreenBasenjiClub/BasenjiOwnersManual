@@ -5,7 +5,7 @@
 
 _**Acquainting your pup with new situations:**_ A young pup is continually learning about his new environment.  Every situation in which he is placed, every person he meets, every pleasant or unpleasant incident in his early life can have a long lasting effect on him.
 
-![](images/BAS47.TIF)
+![](images/BAS47.png)
 
 Dogs must be handled by people at an early age if they are to develop into good companions.  Dogs that are uncomfortable with humans are difficult to train, often develop into fear biters, adapt poorly with children and may frequently run away. Puppies who have very little early human contact can grow to be extremely shy dogs.  Bringing a shy dog out is a difficult, painstaking process that isn't always successful.
 
@@ -223,7 +223,7 @@ Come: Introduce "come" by calling frequently and praising when he responds.
 
 Any wild canine will secure a small, snugly fitting space to call its own.  This space represents security to the dog.  In its den it cannot be attacked or bothered, so it is able to relax fully.  This instinctive desire for a secure den is the basis of the psychology behind using a crate as a training aid.  Once the new basenji owner has overcome his own prejudice against "caging" a pet and accepted the sound reasoning behind crate training, he and his dog can begin to enjoy the benefits of the marvelous crate.
 
-![](images/BAS42.TIF)
+![](images/BAS42.png)
 
 Most basenji breeders and longtime owners have found that a basenji accustomed to having a crate will seek out the security of his crate when he finds his world being invaded by too much noise, confusion, activity, or attention---or just plain desires a safe, quiet place to sleep.
 
@@ -288,7 +288,7 @@ Begin converting him to going out as soon as the weather permits and his body ha
 
 Remove the litter box after he has familiarized himself with this location.  Once the scent is there, make sure he uses it consistently.  From box to outside should take about two weeks of consistent training.  This method of house training is designed to teach your dog to soil in a designated spot, even when outside in the yard.  There are other methods of house training in the AKC _The Complete Dog Book_ and other books.  Regardless of the method, the key to success is consistency.
 
-![](images/BAS34.TIF)
+![](images/BAS34.png)
 
 Accidents will occur.  You should make an analysis of what went wrong.  How long has it been since the pup was out, has he been sleeping, has he just eaten?  Nine times out of ten you can place the blame on yourself.  The pup should not be punished, regardless.  An adult may be disciplined if he has been thoroughly trained to know better
 
@@ -317,7 +317,7 @@ _Consistently_ correct your dog each time he makes the mistake.  To allow behavi
 
 _Consistently_ practice the exercises until they are thoroughly learned.
 
-![](images/BAS22.TIF)
+![](images/BAS22.png)
 
 After about five weeks of working an exercise, expect a learning plateau where the dog makes little progress or even regresses.  Expect this and do not be discouraged.  Continue your training to overcome this plateau.
 
@@ -357,7 +357,7 @@ B: Continue sit exercise now with small distractions and work up to major distra
 C: Sits off-leash should be done after mastering on-leash sits. Attach a pull tab to the obedience collar.  Use this to correct the dog if necessary as per on-leash training.
 
 
-![](images/BAS25.TIF "Tuck-sit training")
+![](images/BAS25.png "Tuck-sit training")
 
 
 ### #2 Benji wait
@@ -368,7 +368,7 @@ B: Begin leaving your dog only after he has mastered exercise "A" for 5 minutes 
 
 C: When the dog is now waiting in front of you on leash consistently for durations of five minutes or more and with some distractions, step back away from him one step.  While still holding the leash (correct him if necessary), return to him in three minutes.  Praise and release.  Increase the distance gradually one step at a time.  You'll have to have a long leash or rope for longer distances. Increase duration and distractions as you go along. Increase the time and amount of distractions before you increase the distance.  If your dog is having problems---stay close, correct him before he can get up.
 
-![](images/BAS55.TIF)
+![](images/BAS55.png)
 
 D: Wait while off leash.  _Do not begin this exercise until he has mastered on leash waits of 5 minutes at a distance of 24' with distractions._ Give the wait command while on 6' leash, dog sitting by your side, unlatch the leash and walk away to a 6' distance.  Attached to his collar should be a short tab.  Use this to give him a correction if necessary; always place him back in the same spot he was told to wait.  Return to him, praise and release.  Increase distance and distractions as you go along.
 
@@ -410,7 +410,7 @@ C: If Benji gets off when commanded, but jumps right back up when you are not lo
 
 ## A Secure Yard
 
-![](images/BAS41.TIF)
+![](images/BAS41.png)
 
 The Basenji is a master escape artist.  The degree to which one will go to escape varies from basenji to basenji, but most basenjis are quite capable of climbing a chain link fence regardless of the height, can master a standing vertical leap of 3 feet, climb a tree, and can clear tall buildings with a single bound.  Should he find no way to go over, he may find a way under.  If he doesn't succeed at digging his way out, he may try removing the fencing with his teeth, pulling with unbelievable force, or chewing his way through.
 
@@ -438,7 +438,7 @@ If your basenji should get out and run loose, coax him back with some food and m
 
 Remember, don't take chances.  It only takes one escape and you may never see him again.  Whether he gets lost or is hit by an automobile, the results are the same.
 
-![](images/BAS29.TIF)
+![](images/BAS29.png)
 
 
 ## MICRO CHIPPING
@@ -474,7 +474,7 @@ Hopefully, all of the preparation you take will never be necessary and your dog 
 
 My dog and I were walking down the street one day and passed a lady working in her yard.  "Oh, what a pretty basenji", she exclaimed as she came down to visit. "I used to have a basenji, but she chewed everything so bad we had to give her up.  We only had her a week!"
 
-![](images/BAS39.TIF)
+![](images/BAS39.png)
 
 Yes, it is true that basenji puppies can be chewing machines. The inherited tendency to investigate the surroundings is very strong in a young dog.  Evolution encourages your pups to use their mouths to learn about their environment, as well as to find additional food sources.
 
@@ -536,4 +536,4 @@ If your "new" Basenji is not a puppy, the introductory period may take longer.  
 
 Remember to offer extra attention to your Original Basenji especially during the first few weeks.  Visitors will be lavishing attention on Junior, and you don’t want Original Basenji to get jealous.  Make a point of making good things happen to Original when Junior is around.  You will find that Original will help teach Junior many rules of the house including crate training and outdoor duties.  The new "pack" will be charming and fascinating.  You too may exclaim, "you can never have just one Basenji!"
 
-![](images/BAS60.TIF)
+![](images/BAS60.png)

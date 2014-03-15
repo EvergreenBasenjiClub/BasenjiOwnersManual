@@ -61,4 +61,4 @@ _I will help the purchaser in every reasonable way for the life of the dog._
 
 _I understand that indiscriminate breeding may lead to overpopulation and contribute materially to the deterioration of the breed._
 
-![](images/BAS46.TIF)
+![](images/BAS46.png)

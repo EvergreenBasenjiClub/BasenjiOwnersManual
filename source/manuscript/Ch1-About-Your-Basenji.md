@@ -29,7 +29,7 @@ The Basenji made an appearance in civilization at the dawn of history.  Brought 
 
 English nobility rediscovered these little dogs during their hunting expeditions.  For fifty years, the British made many attempts to bring basenjis to England, but they were not successfully acclimated there until 1937.  At the same time, a pair was brought to America.
 
-![](images/BAS27.TIF)
+![](images/BAS27.png)
 
 The Basenji does not bark.  This unusual characteristic does not seem too unusual when you remember that original canines---wolves, coyotes, and jackals---don't bark, either.  Since the Basenji is silent on the trail, the Congolese, as did the ancients, required him to wear a hunting bell so they could trail him.  Though he doesn't "BOW-WOW-WOW," the Basenji is not mute, and can make all the other sounds dogs make: growls, whines, yips, and howls.  He has in addition an unusual sound called a "yodel!" that he uses when he is happy.
 
@@ -78,7 +78,7 @@ Now that you know me a little better, I hope you'll find my antics endlessly amu
 
 ...Love, Lady.  
 
-![](images/BAS23.TIF)
+![](images/BAS23.png)
 
 
 ## BASENJI STANDARD

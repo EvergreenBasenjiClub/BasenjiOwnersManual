@@ -31,13 +31,15 @@ It isn't necessary to introduce your new pup to everything the first several day
 
 _**How to remain the "leader of the pack"**_
 
+![](images/girl-with-basenji.png)
+
 Your basenji, along with all other canines, is a social pack animal.  As young puppies, littermates begin interacting socially with each other, exhibiting "pushy" or dominant behavior.  After repeated playful fighting, the pups learn when to act pushy and when to back down.  Although capable of both behaviors, your pup's natural tendency is to go as far as possible within his social order---to push his way into a leadership position.  It is this tendency you must control early if you want to raise a good family pet.  Your puppy will attempt to interact with people just as he did with his littermates.  In such interaction or play, you and other family members should assume a leadership role and discourage pushy behavior in the pup.
 
 Recognizing dominant and submissive behavior: Dominant signals and behavior include hackles up, standing up straight and erect during greeting, curling lips to expose teeth, mounting behavior, prolonged direct eye contact, nipping your skin or clothing, or mouthing your hands, resistance to the removal of possessed objects, stealing food in your presence, or snarling and/or growling at people.
 
 Subordinate signals include ears back, head lowered, body lowered and tail down and wagging vigorously during greeting; lying on side while exposing groin region, ears back and tail tucked under (usually occurs during times of high social tension such as a discipline situation); licking hands or face.
 
-![](images/FPO-missing.png)
+![](images/man-with-basenji.png)
 
 The following are guidelines to insure that you and other family members assume and retain the leadership relationship with your dog.  Beginning at an early age will insure that your puppy will learn appropriate behavior quickly and will help eliminate problem behavior later on.
 
@@ -86,7 +88,7 @@ A Verbal correction should be spoken loud and as if you really mean it.  Try to 
 
 A loud noise may also work to correct the misbehavior. Try slapping your hand down to make a loud noise along with a growly _**NO!!**_ to intimidate your basenji into stopping the behavior.   The next type of correction is physical.  The muzzle correction is done by firmly grasping his muzzle in your hand (without squeezing) and telling him in no uncertain terms _**"No, Bad Dog."**_ (Here again, try to sound intimidating.)  The neck scruff correction is done by grasping the skin on the back or side of his neck and giving a firm shake (but not enough to lift him off the ground) while again giving the verbal correction.
 
-![](images/FPO-missing.png "Neck Scruff Correction")
+![](images/neck-scruff-correction.png "Neck Scruff Correction")
 
 These corrections need only last a moment or two.  Your dog won't understand a prolonged lecture about how bad he is.  Following a correction, give your dog something positive to do so you can praise him.  (Be forgiving.)
 
@@ -94,7 +96,7 @@ Another type of correction used when your dog is on the leash is the **Lead Pop*
 
 The timing of your praise or correction is important for your dog to make the connection between his behavior and your reaction. Reinforcement (positive or negative) must be during or immediately after the behavior to have the most impact. Reinforcement must be used constantly and consistently during the learning stages. (Even if you have to get up from the couch 10 times in 10 minutes to stop unwanted behavior.)  Dogs learn by repetition.  Every time you permit an incorrect response the dog is learning the incorrect response or learning that he doesn't always have to obey you.
 
-![](images/FPO-missing.png)
+![](images/basenji-looking-over-wall-2.png)
 
 The amount of reinforcement (positive or negative) required for each behavior is gradually diminished as that behavior becomes a conditioned response.  The more consistent you are with your reinforcement, the quicker this learning takes place.
 
@@ -270,7 +272,7 @@ Do not line the entire area with newspapers. Encourage him to use the litter box
 
 When you have your puppy out for playtime, take him to his designated spot quite often.  Like a young child, he'll put off going till the last minute, then when he becomes excited he will go. It may be on the couch or in your arms.  He has no control over this situation, and the fault is yours for not prompting him to eliminate earlier.  Confine him to his special environment, unless playing or socializing with him.  Make sure he is watched, confined to a certain room, and that his litter box is nearby. A young pup can't be expected to travel more than about ten feet when he gets the urge to go.  If that certain spot (litter box) is not around, he will find another.  It's very important not to let him have the run of the house because he will establish other spots.  Be prepared to pick him up in a hurry should he choose a spot other than the litter box.  Rush him to the litter box and place him in it.  If he hasn't already relieved himself, praise him for doing so in the litter box.  Puppies are eager to please you.  Don't punish him if he happens to miss the box.  House training must be done with positive reinforcement
 
-![](images/FPO-missing.png)
+![](images/basenji-hiding-behind-chair.png)
 
 Check with the breeder to determine the method of house training they may have begun.  Maintain this method, for a change will only confuse the pup.  Pups raised in an environment that is completely covered with newspaper are not paper-trained.  A paper-trained pup will seek out the newsprint, rather than the pup that just goes anywhere whenever he wishes.  When your puppy reaches the age of 11 weeks, he is capable of sleeping through the night without soiling his crate.  He probably will go through a period of adjustment and soiling his crate can be expected even during short periods of crating.
 
@@ -370,7 +372,7 @@ B: Begin leaving your dog only after he has mastered exercise "A" for 5 minutes 
 
 C: When the dog is now waiting in front of you on leash consistently for durations of five minutes or more and with some distractions, step back away from him one step.  While still holding the leash (correct him if necessary), return to him in three minutes.  Praise and release.  Increase the distance gradually one step at a time.  You'll have to have a long leash or rope for longer distances. Increase duration and distractions as you go along. Increase the time and amount of distractions before you increase the distance.  If your dog is having problems---stay close, correct him before he can get up.
 
-![](images/BAS55.png)
+![](images/leash-for-lead-pop.png)
 
 D: Wait while off leash.  _Do not begin this exercise until he has mastered on leash waits of 5 minutes at a distance of 24' with distractions._ Give the wait command while on 6' leash, dog sitting by your side, unlatch the leash and walk away to a 6' distance.  Attached to his collar should be a short tab.  Use this to give him a correction if necessary; always place him back in the same spot he was told to wait.  Return to him, praise and release.  Increase distance and distractions as you go along.
 
@@ -419,8 +421,6 @@ The Basenji is a master escape artist.  The degree to which one will go to escap
 These escape traits are the extremes which a basenji may or may not exhibit.  Some basenjis show little or no desire to escape, and are quite content to be confined by a 42 inch high porch railing, even though this would be an easy leap. On the other extreme, others are master escape artists, no matter what is tried.
 
 How can we confine our friend to keep him safely at home?  Why not use a chain?  The disadvantages prove it to be a poor way of confining your dog, and should be used on a temporary basis only.  Twist link chains can be broken, and steel cable can be chewed through.  Only a welded link chain secured to a very secure anchor will do. How do we secure this to the dog?  No leather or nylon collar will do, as leather stretches and nylon collars can pull apart at the stitching or the D-rings can come apart if not welded.  A harness is the most secure way to restrain a dog.
-
- 
 
 Basenjis like to test their strength against any restraint. "Tying out" creates extra heavy muscle mass and wears off the hairs on the neck, ruining a show dog's career.  Also, chains don't keep the stray dogs out, and if a stray should start a fight, the dog on the chain is at an extreme disadvantage.  In addition, he may wrap himself up or jump over something and strangle himself to death. This is not an uncommon occurrence among chained dogs of any breed.  Never use a choke chain collar to tie out your dog.
 
@@ -513,7 +513,7 @@ Since basenjis are extremely social creatures in the sense that they are happies
 
 First, be aware of the sense of excitement pervading your return home from the hospital.  You are also carrying a bundle in your arms that smells wonderful and lots of attention is focused on that bundle.  There are all sorts of little knitted fuzzy clothes and toys that go with it.  Instead of creating a situation where your basenji will be wild with curiosity and want to jump up, sniff, lick, grab fuzzies, or even nip, why not have someone else carry the baby in so that you can greet your basenji calmly and with a little attention just for him.  After all, he's had you all to himself until now, and you have been away for a few days.  Next calmly show your basenji the new baby.  Let him sniff and satisfy his curiosity about just what that squirming thing is. Give him gentle admonishments of "NO" if he attempts to lick your newborn. You will need to monitor him as he will persist in his attempts to keep this new "puppy" clean and dry.
 
-![](images/FPO-missing.png)
+![](images/toddler-with-basenji.png)
 
 Be prepared for any number of behavioral reactions from your basenji.  He may be aloof and sulky for a few days.  He may be your shadow, never leaving your side, even trying to crowd the baby as he attempts to climb onto your lap.  He may consider himself the appointed guardian of the new baby, sleeping next to the crib, or lying at your feet when you are holding the baby, and subsequently growling at anyone who approaches or attempts to pick up the child.  Since basenjis have an innate instinct for caring for the young, most will tolerate a toddler's rough handling, but be prepared to rescue your basenji from small pinching fingers.  A child will need to be periodically rescued from a Basenji's obsessive need to lick and clean any and all body fluids. And, while we're on the subject, to avoid unpleasant discoveries, it is recommended that used diapers be kept well out of the reach of your basenji.
 

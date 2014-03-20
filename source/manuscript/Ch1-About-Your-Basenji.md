@@ -7,7 +7,7 @@ The American Kennel Club was founded on September 17, 1884, as an independent, n
 
 When you buy a dog represented as AKC registrable, you should receive an AKC dog Registration Application form properly filled out by the seller or, a bill of sale listing: the names and registration numbers of the sire and dam, date of birth, breeder and seller, with an agreement to provide the registration paper at a later date.  The application, when completed by you and submitted to AKC with the proper fee, will enable you to register the dog.  When the application has been processed, you will receive an AKC Registration Certificate.  Other conditions and agreement of sale should be in writing, signed by both seller and buyer with a signed copy provided to the buyer.
 
-![](images/FPO-missing.png)
+![](images/egyptian-with-basenji.png)
 
 There is a widely held belief that "AKC" or "AKC papers" and quality are one and the same. This is not the case.  AKC is only a registry body. A registration certificate identifies the dog as the offspring of a known sire and dam, born on a known date.  It in no way indicates the quality or state of health of the dog.
 

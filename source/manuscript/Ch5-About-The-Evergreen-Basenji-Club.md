@@ -1,20 +1,20 @@
 # About The Evergreen Basenji Club
 
-![](images/FPO-missing.pngs)
+![](images/ebc-logo.png)
 
 The Evergreen Basenji Club, founded in 1964, is the oldest existing local Basenji Club affiliated with the Basenji Club of America.  Its membership consists of basenji breeders, owners, and fanciers from the greater Seattle area.  You are cordially invited to become acquainted with the club and its activities. 
 
 The objectives of the Evergreen Basenji Club include:
 
-  1)  to encourage the selective breeding of purebred Basenjis to preserve there natural qualities and to conform to the AKC standard for the breed.
+1. to encourage the selective breeding of purebred Basenjis to preserve there natural qualities and to conform to the AKC standard for the breed.
 
-  2)  to encourage and promote training and showing of Basenjis.
+2. to encourage and promote training and showing of Basenjis.
 
-  3)  to encourage sportsmanlike competition at dog shows, obedience trials, and lure trials.
+3. to encourage sportsmanlike competition at dog shows, obedience trials, and lure trials.
 
-  4)  to conduct AKC sanctioned specialty shows and ASFA & AKC sanctioned lure trials.
+4. to conduct AKC sanctioned specialty shows and ASFA & AKC sanctioned lure trials.
 
-  5)  to encourage participation of breeders and nonbreeders in club activities, to disseminate information and conduct educational programs, and to assist members with their problems in connection with the breed.
+5. to encourage participation of breeders and nonbreeders in club activities, to disseminate information and conduct educational programs, and to assist members with their problems in connection with the breed.
 
 In addition, the club and its meetings encourage interchange of ideas and information, provide the opportunity for camaraderie, fellowship, and friendship among members and basenji fanciers.
 

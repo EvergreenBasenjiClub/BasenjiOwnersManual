@@ -7,7 +7,7 @@ Preventive Immunizations are a vital part of the health care of your puppy.  The
 
 _**Distemper (D):**_  A highly-infectious viral disease of young dogs---often fatal, characterized by rhinitis and fever.
 
-![](images/FPO-missing.png)
+![](images/basenji-hiding-from-needle.png)
 
 _**Hepatitis (H):**_  A viral infection characterized by inflammation of the liver.
 
@@ -85,8 +85,6 @@ If you are going to show your dog, the amount of grooming required is dependent 
 There are various sprays and coat conditioners available that, depending on your dog's coat, you may or may not want to try. Consult the AKC rules pertaining to their use for the show ring. Most dogs require only a bath the night before a show.
 
 Your dog's toenails will require an occasional clipping to keep his feet in good health.  His dewclaws were removed when he was just a few days old, so he has just 4 toes on each foot.  The necessary frequency of cutting is dependent on several factors: rate of growth, amount of exercise on what types of surfaces, and the age of your dog (puppy nails tend to grow faster).  The front feet may need cutting more often than the rear feet.  It is best to snip off a small amount, more frequently, rather than waiting until the nails are long so that you need to snip off a big chunk.
-
- 
 
 There are several different types of clippers and grinders available.  Their ease of use depends mostly on what you practice and get used to. Clipping nails is not difficult, but does take some practice.  If at all possible, avoid taking him to the vet to have it done.  Ask your breeder or resource person to show you the correct way to do it.
 
@@ -220,7 +218,7 @@ If in doubt with a vet's diagnosis, don't hesitate to ask for a second opinion, 
 One of the best resources you have is your dog's breeder, local basenji club, and the Basenji Club Of America.  In general, most basenji breeders are very conscious of their dogs' health, and these organizations have amassed hundreds of years experience in dealing with matters pertaining to the health of the breed.
 
 
-![](images/FPO-missing.png)
+![](images/basenji-eating.png)
 
 ## FEEDING YOUR BASENJI
 

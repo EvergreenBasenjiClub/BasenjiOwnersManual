@@ -23,7 +23,7 @@ A dog or bitch must accumulate a total of 15 points to become an AKC Champion of
 
 Begin training your puppy as soon as he's settled into your home.  Begin standing exercises by placing your hand under his chin.  Tell him to "stand stay".  Hold the pose for a moment, then release with praise, "such a good dog".  Don't be concerned about foot placement or the like---to get a basenji pup to stand motionless even for a moment is quite an accomplishment.  Make it fun, no corrections with a young dog.  You want to maintain a happy "I enjoy this" attitude.  As time goes by, increase the durations, but not too long. Touch his feet, tail, topline, go over his entire body.
 
-![](images/FPO-mising.png)
+![](images/basenji-show-prancing.png)
 
 Begin examining his teeth by lifting the upper lip at the front of the jaw, approaching his face from the side.  Once he is performing this freely, move your hand over his head.  Many basenjis object to having a hand over the head.  It's important to train your puppy to accept this, for it will happen in the ring. In attempting to examine your Basenji's teeth, you'll probably find controlling his head without a collar quite a challenge.
 
@@ -54,7 +54,7 @@ Show training should also include fun matches (informal dog shows for training p
 
 ## LURE COURSING
 
-![](images/FPO-missing.png)
+![](images/lure-coursing.png)
 
 _**Tally ho!**_  Three basenjis spring from the slip, running, turning, straining every muscle to catch a tumbling lure as enthusiastically as their ancestors did to catch live game not so many generations ago.  It is a breathtaking spectacle---beautiful, healthy hounds exerting themselves to the limit in an activity similar to the one for which they were bred.
 
@@ -72,7 +72,7 @@ In actual competition, the dogs run in groups of twos or threes (they wear color
 
 The AKC recognized lure coursing as an official sport in 1991 and began to organize their own system of trials and titles.  
 
-![](images/FPO-missing.png)
+![](images/lure-coursing-2.png)
 
 Under the AKC rules, a sighthound may earn a 'JC' Junior Courser title by completing a course alone at two different tests. A 'SC' Senior Courser title is earned by completing a course running with other dogs at four different trials. An 'MC' Master Courser title is earned by completing a course running with other dogs an additional twenty five times. A 'FCH' Field Champion and 'LCX' Lure Courser Excellent title are awarded by earning enough points and placements in competition with other dogs.  The trial procedures are similar to ASFA but the titles earned have a completely different set of requirements.
 

@@ -53,6 +53,7 @@ $(outdir)/$(bookname).latex: $(sources) | $(outdir)
 		--metadata=date:"January 1, 2015" \
 		--metadata=title-meta:"Basenji Owners Manual" \
 		--metadata=author-meta:"Evergreen Basenji Club" \
+		--template=$(templatesdir)/template.latex \
 		--include-in-header=$(templatesdir)/header.latex \
 		--include-before-body=$(templatesdir)/before-body.latex \
 		--include-after-body=$(templatesdir)/after-body.latex \

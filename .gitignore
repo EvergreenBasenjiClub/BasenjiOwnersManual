@@ -3,6 +3,7 @@
 /source/convert_html/
 /source/preview/
 /source/published/
+/output/
 
 # Windows image file caches
 Thumbs.db

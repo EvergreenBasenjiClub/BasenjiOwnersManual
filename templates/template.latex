@@ -139,16 +139,23 @@ $endif$
 $if(subtitle)$
 \subtitle{$subtitle$}
 $endif$
+$if(author)$
 \author{$for(author)$$author$$sep$ \and $endfor$}
+$endif$
+$if(date)$
 \date{$date$}
+$endif$
 
 \begin{document}
 $if(title)$
+\pagestyle{empty}
 \maketitle
 $endif$
 
 $for(include-before)$
 $include-before$
+
+\frontmatter
 
 $endfor$
 $if(toc)$
@@ -158,7 +165,13 @@ $if(toc)$
 \tableofcontents
 }
 $endif$
+
+\mainmatter
+\pagestyle{headings}
+
 $body$
+
+\endmatter
 
 $if(natbib)$
 $if(biblio-files)$

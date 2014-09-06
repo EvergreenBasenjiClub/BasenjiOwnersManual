@@ -1,0 +1,15 @@
+---
+title: Basenji Owners Manual
+author: Evergreen Basenji Club
+date: 'January 1, 2015'
+
+# title-meta: Basenji Owners Manual
+# author-meta: Evergreen Basenji Club
+
+documentclass: book
+fontsize: 10pt
+#classoption: draft
+citecolor: black
+urlcolor: black
+linkcolor: black
+---

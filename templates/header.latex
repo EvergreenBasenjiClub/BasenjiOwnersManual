@@ -12,7 +12,7 @@
 \usepackage{tgbonum}
 \usepackage{index}
 \makeindex
-\proofmodetrue
+%\proofmodetrue
 
 %\usepackage{titlesec}
 %\titlespacing*{\chapter}{0pt}{-50pt}{20pt}
@@ -28,10 +28,6 @@
 %    \stepcounter{chapter}
 %    \textcolor{chapterfg}{\thechapter}
 %S}
-
-\title{Basenji Owners Manual}
-%\author{Jared Reisinger}
-%\date{January 1, 2015}
 
 %%
 %% HEADER END

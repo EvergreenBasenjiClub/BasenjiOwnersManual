@@ -1,0 +1,21 @@
+%%
+%% AFTER BODY BEGIN
+%%
+
+\backmatter
+
+\bibliographystyle{plain}
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Bibliography}
+\bibliography{manuscript/references}
+\nocite{*}
+
+\cleardoublepage
+%\phantomsection
+\addcontentsline{toc}{chapter}{Index}
+\printindex
+
+%%
+%% AFTER BODY END
+%%

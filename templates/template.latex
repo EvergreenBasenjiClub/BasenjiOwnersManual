@@ -175,7 +175,7 @@ $endif$
 
 $body$
 
-\endmatter
+\backmatter
 
 $if(natbib)$
 $if(biblio-files)$

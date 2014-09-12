@@ -139,18 +139,25 @@ $endif$
 $if(subtitle)$
 \subtitle{$subtitle$}
 $endif$
+$if(author)$
 \author{$for(author)$$author$$sep$ \and $endfor$}
+$endif$
+$if(date)$
 \date{$date$}
+$endif$
 
 \begin{document}
 $if(title)$
+\pagestyle{empty}
 \maketitle
 $endif$
 
+\frontmatter
+
 $for(include-before)$
 $include-before$
-
 $endfor$
+
 $if(toc)$
 {
 \hypersetup{linkcolor=black}
@@ -158,7 +165,17 @@ $if(toc)$
 \tableofcontents
 }
 $endif$
+
+%$for(include-frontmatter)$
+%$include-frontmatter$
+%$endfor$
+
+\mainmatter
+\pagestyle{headings}
+
 $body$
+
+\backmatter
 
 $if(natbib)$
 $if(biblio-files)$

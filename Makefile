@@ -2,7 +2,7 @@
 
 all: book
 
-.PHONY: all clean book preview
+.PHONY: all clean latex book preview
 .SUFFIXES:
 .SUFFIXES: .latex .pdf
 
@@ -17,6 +17,7 @@ manifest = $(srcdir)/Book.txt
 #sources = $(shell sed -e '/#.*$/d;/^\s*$/d' manuscript/Book.txt)
 #sources = $(addprefix $(srcdir)/,$(shell cat $(manifest)))
 sources = \
+	$(srcdir)/metadata.yaml \
 	$(srcdir)/Introduction.md \
 	$(srcdir)/Your-Basenji.md \
 	$(srcdir)/Ch1-About-Your-Basenji.md \
@@ -26,42 +27,44 @@ sources = \
 	$(srcdir)/Ch5-About-The-Evergreen-Basenji-Club.md \
 	$(srcdir)/Reference-Library.md
 
+
 templatesdir = templates
+
+templatefiles = \
+	$(templatesdir)/template.latex \
+	$(templatesdir)/header.latex \
+	$(templatesdir)/before-body.latex \
+	$(templatesdir)/after-body.latex
+
+latex: $(outdir)/$(bookname).latex
 
 book: $(outdir)/$(bookname).pdf
 
-preview: clean book
+preview: book
 	evince $(outdir)/$(bookname).pdf
 
 $(outdir):
 	mkdir $(outdir)
 
-$(outdir)/$(bookname).latex: $(sources) | $(outdir)
-#	pandoc -f markdown -t latex -o $@ --template=template/template-test.latex --chapters $(sources)
+$(outdir)/$(bookname).latex: $(sources) $(templatefiles) | $(outdir)
 	pandoc \
 		--from=markdown \
 		--to=latex \
 		--standalone \
 		--chapters \
-		--metadata=documentclass:book \
-		--metadata=fontsize:10pt \
-		--metadata=classoption:draft \
-		--metadata=citecolor:black \
-		--metadata=urlcolor:black \
-		--metadata=linkcolor:black \
-		--metadata=author:"Evergreen Basenji Club" \
-		--metadata=date:"January 1, 2015" \
-		--metadata=title-meta:"Basenji Owners Manual" \
-		--metadata=author-meta:"Evergreen Basenji Club" \
+		--table-of-contents \
 		--template=$(templatesdir)/template.latex \
 		--include-in-header=$(templatesdir)/header.latex \
 		--include-before-body=$(templatesdir)/before-body.latex \
 		--include-after-body=$(templatesdir)/after-body.latex \
+		--metadata=include-frontmatter:$(templatesdir)/before-body.latex \
 		--output=$@ \
 		$(sources)
 
-#		--table-of-contents \ # handled in before-body...
-#		--metadata=title:"Advanced Markdown for Book Publishing" \
+	# Need to tweak output latex to change "\includegraphics{images/" into
+	# "\includegraphics{manuscript/images/" because pdflatex is being run
+	# from this directory (not from within manuscript or within output).
+	sed --in-place --expression='s/\(\\includegraphics{\)\(images\)/\1manuscript\/\2/' $@
 
 # .latex.idx:
 # 	latex $@

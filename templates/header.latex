@@ -2,11 +2,6 @@
 %% HEADER BEGIN
 %%
 
-\usepackage[papersize={6in, 9in},
-            bindingoffset=0.5in,
-            top=0.5in, bottom=0.5in,
-            inner=0.75in, outer=0.75in,
-            includeheadfoot]{geometry}
 \usepackage{layout}
 
 \usepackage{tgbonum}

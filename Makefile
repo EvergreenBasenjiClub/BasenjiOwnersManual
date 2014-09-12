@@ -57,6 +57,7 @@ $(outdir)/$(bookname).latex: $(sources) $(templatefiles) | $(outdir)
 		--include-in-header=$(templatesdir)/header.latex \
 		--include-before-body=$(templatesdir)/before-body.latex \
 		--include-after-body=$(templatesdir)/after-body.latex \
+		--metadata=include-frontmatter:$(templatesdir)/before-body.latex \
 		--output=$@ \
 		$(sources)
 

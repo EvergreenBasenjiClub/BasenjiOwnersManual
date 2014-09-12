@@ -8,6 +8,17 @@ date: 'January 1, 2015'
 
 documentclass: book
 fontsize: 10pt
+
+geometry:
+    - paperwidth=6in
+    - paperheight=9in
+    - bindingoffset=0.5in
+    - top=0.5in
+    - bottom=0.5in
+    - inner=0.75in
+    - outer=0.75in
+    - includeheadfoot
+
 #classoption: draft
 citecolor: black
 urlcolor: black

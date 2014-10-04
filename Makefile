@@ -9,6 +9,9 @@ all: book
 LATEX = pdflatex
 LATEX_FLAGS = --output-directory=$(outdir) --interaction=nonstopmode
 
+PANDOC = pandoc
+PANDOC_FLAGS = --from=markdown --to=latex
+
 outdir = output
 bookname = BasenjiOwnersManual
 
@@ -18,15 +21,18 @@ manifest = $(srcdir)/Book.txt
 #sources = $(addprefix $(srcdir)/,$(shell cat $(manifest)))
 sources = \
 	$(srcdir)/metadata.yaml \
-	$(srcdir)/Introduction.md \
-	$(srcdir)/Your-Basenji.md \
 	$(srcdir)/Ch1-About-Your-Basenji.md \
 	$(srcdir)/Ch2-Living-with-a-Basenji.md \
 	$(srcdir)/Ch3-Caring-For-Your-Basenji.md \
 	$(srcdir)/Ch4-Basenji-Activities.md \
 	$(srcdir)/Ch5-About-The-Evergreen-Basenji-Club.md \
-	$(srcdir)/Reference-Library.md
 
+frontsources = \
+	$(srcdir)/Introduction.md \
+	$(srcdir)/Your-Basenji.md \
+
+backsources = \
+	$(srcdir)/Reference-Library.md \
 
 templatesdir = templates
 
@@ -46,16 +52,30 @@ preview: book
 $(outdir):
 	mkdir $(outdir)
 
-$(outdir)/$(bookname).latex: $(sources) $(templatefiles) | $(outdir)
-	pandoc \
-		--from=markdown \
-		--to=latex \
+frontmatter = $(outdir)/frontmatter.latex
+backmatter = $(outdir)/backmatter.latex
+
+$(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(frontsources) $(backsources) | $(outdir)
+	$(PANDOC) \
+		$(PANDOC_FLAGS) \
+		--output=$(frontmatter) \
+		$(frontsources)
+
+	$(PANDOC) \
+		$(PANDOC_FLAGS) \
+		--output=$(backmatter) \
+		$(backsources)
+
+	$(PANDOC) \
+		$(PANDOC_FLAGS) \
 		--standalone \
 		--chapters \
 		--table-of-contents \
 		--template=$(templatesdir)/template.latex \
 		--include-in-header=$(templatesdir)/header.latex \
 		--include-before-body=$(templatesdir)/before-body.latex \
+		--include-before-body=$(frontmatter) \
+		--include-after-body=$(backmatter) \
 		--include-after-body=$(templatesdir)/after-body.latex \
 		--metadata=include-frontmatter:$(templatesdir)/before-body.latex \
 		--output=$@ \

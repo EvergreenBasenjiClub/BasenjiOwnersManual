@@ -1,7 +1,7 @@
 # Living With a Basenji
 
 
-## SOCIALIZATION
+## \index{socialization}SOCIALIZATION
 
 _**Acquainting your pup with new situations:**_ A young pup is continually learning about his new environment.  Every situation in which he is placed, every person he meets, every pleasant or unpleasant incident in his early life can have a long lasting effect on him.
 
@@ -19,7 +19,7 @@ Get him used to being in crowds or places where there is a lot of activity.  Don
 
 Accustom your puppy to riding in the car by going for short rides.
 
-Guard against isolating your pup for prolonged periods of time.  Digging, chewing and scratching often occur because the pup is kept by himself. Puppies are social animals and need social contact for proper development.
+Guard against isolating your pup for prolonged periods of time.  \index{digging}Digging, \index*{chewing} and scratching often occur because the pup is kept by himself. Puppies are social animals and need social contact for proper development.
 
 If your pup tends to be somewhat shy, make sure any discipline is not excessive.  However, it is very important not to baby a shy pup, as this will only reinforce his shyness.  Encourage him to overcome shyness by going forward, not retreating. Praise and treat him for going forward and making progress.
 
@@ -35,9 +35,9 @@ _**How to remain the "leader of the pack"**_
 
 Your basenji, along with all other canines, is a social pack animal.  As young puppies, littermates begin interacting socially with each other, exhibiting "pushy" or dominant behavior.  After repeated playful fighting, the pups learn when to act pushy and when to back down.  Although capable of both behaviors, your pup's natural tendency is to go as far as possible within his social order---to push his way into a leadership position.  It is this tendency you must control early if you want to raise a good family pet.  Your puppy will attempt to interact with people just as he did with his littermates.  In such interaction or play, you and other family members should assume a leadership role and discourage pushy behavior in the pup.
 
-Recognizing dominant and submissive behavior: Dominant signals and behavior include hackles up, standing up straight and erect during greeting, curling lips to expose teeth, mounting behavior, prolonged direct eye contact, nipping your skin or clothing, or mouthing your hands, resistance to the removal of possessed objects, stealing food in your presence, or snarling and/or growling at people.
+Recognizing \index*{dominant} and \index*{submissive} behavior: \index{dominant}Dominant signals and behavior include \index*{hackles} up, standing up straight and erect during greeting, curling lips to expose teeth, mounting behavior, prolonged direct eye contact, nipping your skin or clothing, or mouthing your hands, resistance to the removal of possessed objects, stealing food in your presence, or snarling and/or growling at people.
 
-Subordinate signals include ears back, head lowered, body lowered and tail down and wagging vigorously during greeting; lying on side while exposing groin region, ears back and tail tucked under (usually occurs during times of high social tension such as a discipline situation); licking hands or face.
+Subordinate signals include ears back, head lowered, body lowered and \index*{tail} down and wagging vigorously during greeting; lying on side while exposing groin region, ears back and tail tucked under (usually occurs during times of high social tension such as a discipline situation); licking hands or face.
 
 ![](images/man-with-basenji.png)
 
@@ -51,9 +51,9 @@ Don't unconsciously encourage him to act pushy.  Never roughhouse so that he thi
 
 Never chase your dog (Leaders don't chase).
 
-Never discipline your puppy for misbehavior unless you catch him in the act.  Use only enough discipline to make him immediately stop what he's doing, then praise him for stopping.
+Never \index*{discipline} your puppy for misbehavior unless you catch him in the act.  Use only enough discipline to make him immediately stop what he's doing, then praise him for stopping.
 
-Never allow your puppy to nip or mouth you, even in play. Let the puppy know with the muzzle or neck scruff correction that this behavior is not allowed.  (See article on Discipline.)
+Never allow your puppy to nip or mouth you, even in play. Let the puppy know with the muzzle or neck scruff correction that this behavior is not allowed.  (See article on \index{discipline}Discipline.)
 
 Being the leader does not mean that you need to be cruel or beat your dog into minding.  Your basenji is not dumb. You must earn his respect by becoming a fair, just, and consistent leader.
 
@@ -61,7 +61,7 @@ The following exercises will help you teach your puppy that you are in control o
 
 While seated on the floor, pick up the pup with both hands by holding him underneath his shoulder area so that he is facing you. Hold him at arm's length and look directly into his eye.  _**Do not be the first to look away.**_  If he struggles, follow with a raised voice and quick shake.  When he is quiet, talk to him in a soft, pleasant voice. Continue your eye contact.  Maintain this position for 30 to 90 seconds (vary time). Repeat this exercise until he no longer struggles.
 
-Place the pup on his side on the floor, using one hand to hold him by the neck scruff and stroke his tummy with the other.  Talk to him in a soft, pleasant voice when he is quiet.  Do not allow him to struggle, nip or mouth your hands.  If he tries, raise your voice and shake him firmly by the scruff of the neck, as his mother would do.  Praise him lavishly when he stops.
+Place the pup on his side on the floor, using one hand to hold him by the neck scruff and stroke his tummy with the other.  Talk to him in a soft, pleasant voice when he is quiet.  Do not allow him to struggle, nip or mouth your hands.  If he tries, raise your voice and shake him firmly by the \index{neck scruff correction}scruff of the neck, as his mother would do.  Praise him lavishly when he stops.
 
 When he's quiet, place your fingers around his muzzle, open his mouth, handle his feet, etc. Praise him for tolerating the handling.
 
@@ -70,23 +70,23 @@ These exercises should be performed regularly during early development and can b
 As your basenji goes through the juvenile stage and moves toward maturity, he may again periodically test your leadership. Most pack members are subordinate.  _**You will not "break his spirit"**_ or inhibit his development into a normal, healthy basenji. Rather, you are giving him a defined position in your family, behavior guidelines to follow, and a sense of trust in you, his leader.
 
 
-## DISCIPLINE
+## \index{discipline}DISCIPLINE
 
 Teaching your puppy right from wrong is an important aspect of raising a basenji.  People often mistakenly assume that a dog learns about his world much like a child would.  But, in fact, he learns differently than a child.  He relies more heavily on his hearing and smelling abilities, his more pronounced inherited capabilities and, more important, he does not have a grammatical language.  That is why we cannot directly communicate with him as we could a child.  We cannot sit down and reason with him and tell him what we expect of him.
 
 A dog learns by doing.  His actions produce specific results. If he finds the results pleasing, he will tend to repeat the action.  If he finds the results unpleasant, he will tend to not repeat the action that produced them.
 
-There are two techniques used to mold your puppy's behavior which take the above principles into account.  You should become familiar with these and use them to your best advantage.  These techniques are called _Positive Reinforcement_ and _Negative Reinforcement_.  Positive Reinforcement is used to establish behavior that the dog would not ordinarily do on his own.  Negative Reinforcement is used to discourage behavior that you find unacceptable or undesirable.
+There are two techniques used to mold your puppy's behavior which take the above principles into account.  You should become familiar with these and use them to your best advantage.  These techniques are called _\index{positive reinforcement}Positive Reinforcement_ and _\index{negative reinforcement}Negative Reinforcement_.  Positive Reinforcement is used to establish behavior that the dog would not ordinarily do on his own.  Negative Reinforcement is used to discourage behavior that you find unacceptable or undesirable.
 
-Positive Reinforcement includes exuberant, enthusiastic praise, food and treats, or play.  The time to use this praise is any time your basenji demonstrates behavior you want to reinforce. Use lots of praise as you physically guide him through the behavior, or as you coax him into the position with food.  Also use lots of praise when he does the desired behavior on his own.
+\index{positive reinforcement}Positive Reinforcement includes exuberant, enthusiastic praise, food and treats, or play.  The time to use this praise is any time your basenji demonstrates behavior you want to reinforce. Use lots of praise as you physically guide him through the behavior, or as you coax him into the position with food.  Also use lots of praise when he does the desired behavior on his own.
 
-Examples of when to use Positive Reinforcement include: any training such as sit, or down; any dog tricks; teaching your dog to come when called; teaching your dog to stack; going into a crate; relieving himself in the spot you choose; chewing on his own toy; any behavior you want to encourage.
+Examples of when to use \index{positive reinforcement}Positive Reinforcement include: any training such as sit, or down; any dog tricks; teaching your dog to come when called; teaching your dog to stack; going into a crate; relieving himself in the spot you choose; \index*{chewing} on his own toy; any behavior you want to encourage.
 
-Negative Reinforcement can be Verbal or Physical and should be used to stop any unwanted behavior _**as it happens**_ such as: Relieving in the house; chewing on objects "off limits"; stealing food; jumping up; aggression; getting on furniture; chasing the cat; any behavior you wish to discourage.
+\index{negative reinforcement}Negative Reinforcement can be Verbal or Physical and should be used to stop any unwanted behavior _**as it happens**_ such as: Relieving in the house; \index*{chewing} on objects "off limits"; stealing food; jumping up; aggression; getting on furniture; chasing the cat; any behavior you wish to discourage.
 
 A Verbal correction should be spoken loud and as if you really mean it.  Try to make a distinction in your voice between your _No!!!_  and any other conversation you have with your basenji.  In other words, try not to speak in a monotone (in praise and correction) or direct your correction as a dare or a question (No-o???).
 
-A loud noise may also work to correct the misbehavior. Try slapping your hand down to make a loud noise along with a growly _**NO!!**_ to intimidate your basenji into stopping the behavior.   The next type of correction is physical.  The muzzle correction is done by firmly grasping his muzzle in your hand (without squeezing) and telling him in no uncertain terms _**"No, Bad Dog."**_ (Here again, try to sound intimidating.)  The neck scruff correction is done by grasping the skin on the back or side of his neck and giving a firm shake (but not enough to lift him off the ground) while again giving the verbal correction.
+A loud noise may also work to correct the misbehavior. Try slapping your hand down to make a loud noise along with a growly _**NO!!**_ to intimidate your basenji into stopping the behavior.   The next type of correction is physical.  The \index*{muzzle correction} is done by firmly grasping his muzzle in your hand (without squeezing) and telling him in no uncertain terms _**"No, Bad Dog."**_ (Here again, try to sound intimidating.)  The \index*{neck scruff correction} is done by grasping the skin on the back or side of his neck and giving a firm shake (but not enough to lift him off the ground) while again giving the verbal correction.
 
 ![](images/neck-scruff-correction.png "Neck Scruff Correction")
 
@@ -120,29 +120,29 @@ If you are interested in more information regarding the concepts the review is b
 
 Environment: Warmth, food, sleep
 
-Human socialization:  None
+Human \index*{socialization}:  None
 
-Canine socialization:  Needs mother
+Canine \index*{socialization}:  Needs mother
 
 ### Age: 4th week
 
 Environment: Unchanged and unchanging
 
-Human socialization:  Gentle handling by humans
+Human \index*{socialization}:  Gentle handling by humans
 
-Canine socialization:  Begins socializing with litter mates
+Canine \index*{socialization}:  Begins socializing with litter mates
 
 ### Age: 5th through 7th week
 
 Environment:  Introduce household noises and activities
 
-Human socialization: Continue handling and allow some visitors. Provide regular attention away from littermates and mother.
+Human \index*{socialization}: Continue handling and allow some visitors. Provide regular attention away from littermates and mother.
 
-Canine socialization: Begin weaning and feeding from dish, but allow mother access at other times for feeding and disciplining.
+Canine \index*{socialization}: Begin \index*{weaning} and feeding from dish, but allow mother access at other times for feeding and disciplining.
 
 ### Training At 5 TO 7 Weeks:
 
-Housebreaking:  Paper training begins with area to be used at reasonable location and well-lined with newspapers (or litter box).
+\index{housebreaking}Housebreaking:  Paper training begins with area to be used at reasonable location and well-lined with newspapers (or litter box).
 
 _**all other training requires frequent, regular, individual training sessions.**_
 
@@ -150,7 +150,7 @@ Lead Training:  Fit with buckle collar and attach short piece of shoe string.  S
 
 Table Training: Place on table and gently examine and groom the pup (be sure to handle mouth, feet and testicles).
 
-### Fetch:
+### \index{fetch}Fetch:
 
 1. Start with whatever the pup is interested in (ball, sock, toy).
 
@@ -166,19 +166,19 @@ Table Training: Place on table and gently examine and groom the pup (be sure to 
 
 Environment: Introduce to big, wide world to see and smell everything.  Avoid frightening new or painful experiences.
 
-Human socialization: Give lots of love and attention from all types and sizes of people.
+Human \index*{socialization}: Give lots of love and attention from all types and sizes of people.
 
-Canine socialization: Remove from mother. Remove from litter mates or provide rotation system into pairs so that the companion of each pup changes every day.
+Canine \index*{socialization}: Remove from mother. Remove from litter mates or provide rotation system into pairs so that the companion of each pup changes every day.
 
 ### Training at 8 to 12 weeks:
 
-Housebreaking: Progress to outside housebreaking.  Should be able to go all night.
+\index{housebreaking}Housebreaking: Progress to outside housebreaking.  Should be able to go all night.
 
 _**all other training should be daily, individual training sessions out of sight and sound of litter mates and mother and other distractions.  use positive, constructive approach. Never use "no" command during training sessions but teach the command and use substitution.**_
 
-### Substitution:
+### \index{substitution}Substitution:
 
-1. Do not allow unacceptable behavior to be carried through; say _"No"_, substitute a correct behavior and praise.  Some substitutions can be toy or chewie for chewing whatever; sit for jumping on people; down position for climbing on furniture.
+1. Do not allow unacceptable behavior to be carried through; say _"No"_, substitute a correct behavior and praise.  Some substitutions can be toy or chewie for \index*{chewing} whatever; sit for jumping on people; down position for climbing on furniture.
 
 2. If more of a correction is required, grasp the pup's muzzle but do not squeeze, say _"No"_, substitute and praise.
 
@@ -186,7 +186,7 @@ _**all other training should be daily, individual training sessions out of sight
 
 4. At about 11 weeks the muzzle correction will no longer work.  At that time switch to the collar correction---grasp collar, give a small tug upward (do not lift pup's feet of the floor) release, substitute and praise.
 
-### Lead Training:
+### \index{lead training}Lead Training:
 
 1. Carry pup outside and put down, stand still and follow him about---no tugs, no pulling, nor force.
 
@@ -204,7 +204,7 @@ _**all other training should be daily, individual training sessions out of sight
 
 1. Five minute session on grooming table.
 
-  1. Have the pup on the table doing your regular grooming and examination and introduce the sit---insert your right hand with the palm up into his collar on top of his neck with the fingers pointing to the tail; put left palm on his shoulders and slide it along his back, over his rear and down his legs to the hock where you gently apply pressure while saying _"Sit."_  He will sit on your hand.  Remove your left hand and stroke his back gently and give gentle praise to keep him sitting to the count of 12.
+  1. Have the pup on the table doing your regular grooming and examination and introduce the sit---insert your right hand with the palm up into his collar on top of his neck with the fingers pointing to the \index*{tail}; put left palm on his shoulders and slide it along his back, over his rear and down his legs to the hock where you gently apply pressure while saying _"Sit."_  He will sit on your hand.  Remove your left hand and stroke his back gently and give gentle praise to keep him sitting to the count of 12.
 
   2. Turn collar so the right hand is under the pup's chin with the palm down.  Place your left hand just behind the right front leg and say _"Stand"_ as you gently pull forward on the collar and slide the left hand along his tummy until you reach the rear legs. Apply gentle pressure to his tummy if necessary to get him up on his feet.  Turn your left hand over and gently stroke his tummy, continue quiet praise and keep him standing to the count of 12.
 
@@ -229,9 +229,9 @@ Any wild canine will secure a small, snugly fitting space to call its own.  This
 
 Most basenji breeders and longtime owners have found that a basenji accustomed to having a crate will seek out the security of his crate when he finds his world being invaded by too much noise, confusion, activity, or attention---or just plain desires a safe, quiet place to sleep.
 
-For the owner, the crate proves to be an excellent solution to one of the most trying problems to be encountered:  how to restrain his puppy or dog from getting into trouble, such as chewing a hole in the new sofa, sampling that pretty green plant growing on the window sill, tearing all the paper off that brand new toilet roll and dragging it all through the house, or "getting even" for being left home when he wanted to go along.  Finally, travel is much easier with a dog accustomed to being crated.
+For the owner, the crate proves to be an excellent solution to one of the most trying problems to be encountered:  how to restrain his puppy or dog from getting into trouble, such as \index*{chewing} a hole in the new sofa, sampling that pretty green plant growing on the window sill, tearing all the paper off that brand new toilet roll and dragging it all through the house, or "getting even" for being left home when he wanted to go along.  Finally, travel is much easier with a dog accustomed to being crated.
 
-1. Traveling is much safer if your dog is accustomed to being crated when traveling in a car. The chance of an accidental escape is greatly reduced at rest stops when passengers get out to stretch their legs.  A loose dog in the car may distract the driver or interfere with his ability to drive, possibly resulting in an accident.
+1. Traveling is much safer if your dog is accustomed to being crated when traveling in a car. The chance of an accidental \index{escaping}escape is greatly reduced at rest stops when passengers get out to stretch their legs.  A loose dog in the car may distract the driver or interfere with his ability to drive, possibly resulting in an accident.
 
 2. Many motel owners are more willing to allow you to stay with your dog if he has been taught to stay quietly in his crate.
 
@@ -243,7 +243,7 @@ Place the crate in a quiet area of the home that is kept warm (not an unheated p
 
 Your puppy may already have been introduced to his crate by his breeder.  He will probably already have taken his naps and slept in it at night.  For the new owner who gets a puppy which has not been crate trained, the process may be a little unnerving but is far from impossible.
 
-In the course of crate training your puppy, several things should be done:
+In the course of \index*{crate training} your puppy, several things should be done:
 
 1. Prior to crating your puppy for the first time, allow your puppy ample opportunity to investigate and explore the crate.  But don't force him.
 
@@ -262,11 +262,11 @@ In the course of crate training your puppy, several things should be done:
 
 ## HOUSE TRAINING
 
-House training begins before your puppy even arrives at your home.  This training may include staying off furniture, staying out of the living room, but most of all, not to urinate or soil anywhere in the house.
+\index{house training}House training begins before your puppy even arrives at your home.  This training may include staying off furniture, staying out of the living room, but most of all, not to urinate or soil anywhere in the house.
 
 Good sanitary behavior begins as soon as a puppy begins to walk, leaving the nesting area to urinate on newspaper or in a litter box which is placed immediately outside of this area.  At the first sign of the inherited sanitary behavior, which all dogs possess, this behavior must be positively reinforced through reward.  Do not use negative reinforcement such as disciplinary punishment.
 
-If your puppy comes into your home at less than 12 weeks of age and must be confined for periods of time exceeding four to six hours at a stretch, you will need to make some special provisions such as a litter box lined with newspaper, kitty litter, or a piece of sod.  A pup of 6 to 10 weeks of age can't control his bladder very long, and will be forced to use his crate if locked in it.  If forced to do this consistently, he may decide that this is acceptable behavior.  Place the crate and litter box in a cornered-off area of the kitchen or any other room in which you wish to keep him.  An exercise pen is very handy in doing this, but cost may be more than you wish to spend.  A large appliance box, such as from a refrigerator, will do.  Cut out a side of the top, leaving enough floor space for feeding. Leave as much height on the sides as possible, for basenjis can be very good climbers. Line the bottom of this with a piece of hardboard.  A four-by-eight sheet may be used under an exercise pen.  This will protect your carpet or vinyl floor. Remember all within this area is fair game for chewing.  This includes even your kitchen vinyl floor.  As the pup grows and is still too young to be crated over long periods, you may have to buy a top for your exercise pen or extend the side of your cardboard box with additional cardboard and masking tape.
+If your puppy comes into your home at less than 12 weeks of age and must be confined for periods of time exceeding four to six hours at a stretch, you will need to make some special provisions such as a litter box lined with newspaper, kitty litter, or a piece of sod.  A pup of 6 to 10 weeks of age can't control his bladder very long, and will be forced to use his crate if locked in it.  If forced to do this consistently, he may decide that this is acceptable behavior.  Place the crate and litter box in a cornered-off area of the kitchen or any other room in which you wish to keep him.  An exercise pen is very handy in doing this, but cost may be more than you wish to spend.  A large appliance box, such as from a refrigerator, will do.  Cut out a side of the top, leaving enough floor space for feeding. Leave as much height on the sides as possible, for basenjis can be very good climbers. Line the bottom of this with a piece of hardboard.  A four-by-eight sheet may be used under an exercise pen.  This will protect your carpet or vinyl floor. Remember all within this area is fair game for \index*{chewing}.  This includes even your kitchen vinyl floor.  As the pup grows and is still too young to be crated over long periods, you may have to buy a top for your exercise pen or extend the side of your cardboard box with additional cardboard and masking tape.
 
 Do not line the entire area with newspapers. Encourage him to use the litter box by waking him up after sleeping and placing him there to urinate. Once the scent is there he will try to make it to that spot every time, unless it's too unsanitary---then he will seek another spot.  Should you have the advantage of being able to take him to a spot to soil every 4 hours or less, you can avoid this special environment and confine him to his crate. Few people have this time available; even nonworkers must get a full night's sleep or leave the home for longer periods.
 
@@ -276,11 +276,11 @@ When you have your puppy out for playtime, take him to his designated spot quite
 
 Check with the breeder to determine the method of house training they may have begun.  Maintain this method, for a change will only confuse the pup.  Pups raised in an environment that is completely covered with newspaper are not paper-trained.  A paper-trained pup will seek out the newsprint, rather than the pup that just goes anywhere whenever he wishes.  When your puppy reaches the age of 11 weeks, he is capable of sleeping through the night without soiling his crate.  He probably will go through a period of adjustment and soiling his crate can be expected even during short periods of crating.
 
-Adjustment depends on how much preparation he has had in crate training and house training.  This also may be lengthened by a strong-headed pup who doesn't want to accept the situation.  There are two ways to go about this period of adjustment and crate soiling.  One is to repeat the environment described for the 6 to 10 week pup at the beginning of this section.  Extra care must be taken to prevent escape.  The second is to crate him, line his crate with a disposable product such as paper towel, plain bedding paper (purchased from a pet shop), or a supply of washable bedding. Don't use newsprint to line his crate if you are using it for his litter box---this will cause confusion.  Remember that this is only temporary.  In a week or two he should settle down and sleep through the night.  Regardless of which way you go about this adjustment period, he will most likely be quite noisy.
+Adjustment depends on how much preparation he has had in crate training and house training.  This also may be lengthened by a strong-headed pup who doesn't want to accept the situation.  There are two ways to go about this period of adjustment and \index*{crate soiling}.  One is to repeat the environment described for the 6 to 10 week pup at the beginning of this section.  Extra care must be taken to prevent \index{escaping}escape.  The second is to crate him, line his crate with a disposable product such as paper towel, plain bedding paper (purchased from a pet shop), or a supply of washable bedding. Don't use newsprint to line his crate if you are using it for his litter box---this will cause confusion.  Remember that this is only temporary.  In a week or two he should settle down and sleep through the night.  Regardless of which way you go about this adjustment period, he will most likely be quite noisy.
 
 Crating your 11 to 12 week old pup during the day (6 to 8 hours) will require adjustment similar to crating during the night.  If possible, start him with his regular rest period, gradually extending its length by one hour a day until the desired duration.  No dog can be expected not to soil the crate if not prompted to relieve himself prior to crating. Make sure he does the job.  Do not expect more than 8 hours safe crating time from a young dog and no more than 12 hours from an adult.  These long periods are quite a demand.
 
-Crate soiling has emotional factors: a pup or adult dog who has controlled himself during a long period may relieve himself due to the excitement of your returning or his morning feeding. Make sure you let him out to an appropriate place to soil as soon as possible, should he exhibit this excited behavior.  A dog could also relieve himself out of retaliation toward being crated, if he has not been adjusted to crating during that time of day.  In no case should a dog who has soiled his crate be greeted with punishment.  This will cause resentment on the part of the dog toward you and/or the crating.  He may continue soiling his crate out of retaliation regardless of the punishment.  A dog may also soil his crate seeking attention, even though this attention is punishment.  Don't make a big issue of going away or coming home for the dog that is crated.  This creates unnecessary anxiety. The less said the better.
+\index{crate soiling}Crate soiling has emotional factors: a pup or adult dog who has controlled himself during a long period may relieve himself due to the excitement of your returning or his morning feeding. Make sure you let him out to an appropriate place to soil as soon as possible, should he exhibit this excited behavior.  A dog could also relieve himself out of retaliation toward being crated, if he has not been adjusted to crating during that time of day.  In no case should a dog who has soiled his crate be greeted with punishment.  This will cause resentment on the part of the dog toward you and/or the crating.  He may continue soiling his crate out of retaliation regardless of the punishment.  A dog may also soil his crate seeking attention, even though this attention is punishment.  Don't make a big issue of going away or coming home for the dog that is crated.  This creates unnecessary anxiety. The less said the better.
 
 Within two weeks of acquiring your pup, he should be settling in with his new home.  He should have the litter box mastered and be somewhat crate-trained.  The use of the two together teaches him control.  You must maintain a regular schedule of feeding, crating, playtime and a certain spot to soil.  This consistency is the foundation of all training.  Failing to be consistent extends the training time and leads to your own frustration
 
@@ -288,24 +288,24 @@ When to train your puppy to relieve himself outside instead of inside depends on
 
 Begin converting him to going out as soon as the weather permits and his body has a good resistance to infectious diseases. If you have a covered porch protected from the extreme weather, you may wish to start by having him use the litter box there until milder weather.  Place his litter box at the location which you wish him to soil.  Take him there when he wakes, prior to crating, after feeding, and during playtime.  He will soon learn where his box is.  Then allow him to trot along at your side to this spot so you can show him where it is.  In a few days he will learn the path to this spot.  This will imprint on his mind that he must pass through this door to get to the spot.  Remember, if he has not eliminated for 8 hours, the trip to that spot is like the one you have probably gone through when traveling in the car for hours. Though only a few feet to the restroom, it seems like a mile; and when you get there, you don't wish to wait.  So make sure the outside door is open as soon as possible, and don't expect him to travel 100 feet to the rear of the yard to relieve himself.
 
-Remove the litter box after he has familiarized himself with this location.  Once the scent is there, make sure he uses it consistently.  From box to outside should take about two weeks of consistent training.  This method of house training is designed to teach your dog to soil in a designated spot, even when outside in the yard.  There are other methods of house training in the AKC _The Complete Dog Book_ and other books.  Regardless of the method, the key to success is consistency.
+Remove the litter box after he has familiarized himself with this location.  Once the scent is there, make sure he uses it consistently.  From box to outside should take about two weeks of consistent training.  This method of house training is designed to teach your dog to soil in a designated spot, even when outside in the yard.  There are other methods of house training in the \index*{AKC} _The Complete Dog Book_ and other books.  Regardless of the method, the key to success is consistency.
 
 ![](images/BAS34.png)
 
 Accidents will occur.  You should make an analysis of what went wrong.  How long has it been since the pup was out, has he been sleeping, has he just eaten?  Nine times out of ten you can place the blame on yourself.  The pup should not be punished, regardless.  An adult may be disciplined if he has been thoroughly trained to know better
 
-In general, the Basenji is a very clean dog with clean habits. Reinforce these habits with positive reinforcement.  Negative reinforcement can create problems.  This can be seen in the dog who has been swatted with a rolled up newspaper or magazine.  This dog may be vicious to the paperboy or letter carrier who brings these devices of punishment to the house.  A dog who is consistently struck with the hand may become hand shy, and will be apt to bite the innocent person who wishes to pet him.  Rubbing his nose in it is inhumane and cruel.  This dog may have the scent left on his face and won't be able to tell the difference between right and wrong spots to soil.  You also can damage the dog's ability to smell.  His nose is very sensitive and easily damaged. Shaming the puppy for doing something that occurs naturally will cause the puppy to soil a place when you are not looking or seek a concealed space such as behind the couch.  In an extreme case, a puppy will lick up or eat the mess he has made in an attempt to hide it from you.  All you have taught him is shame toward what comes naturally; it won't solve the problem.  He is not capable of making the connection.  Negative reinforcement should be used only when correcting aggressive or disobedient behavior and used in conjunction with positive reinforcement.  (See section on Discipline.)
+In general, the Basenji is a very clean dog with clean habits. Reinforce these habits with positive reinforcement.  \index{negative reinforcement}Negative reinforcement can create problems.  This can be seen in the dog who has been swatted with a rolled up newspaper or magazine.  This dog may be vicious to the paperboy or letter carrier who brings these devices of punishment to the house.  A dog who is consistently struck with the hand may become hand shy, and will be apt to bite the innocent person who wishes to pet him.  Rubbing his nose in it is inhumane and cruel.  This dog may have the scent left on his face and won't be able to tell the difference between right and wrong spots to soil.  You also can damage the dog's ability to smell.  His nose is very sensitive and easily damaged. Shaming the puppy for doing something that occurs naturally will cause the puppy to soil a place when you are not looking or seek a concealed space such as behind the couch.  In an extreme case, a puppy will lick up or eat the mess he has made in an attempt to hide it from you.  All you have taught him is shame toward what comes naturally; it won't solve the problem.  He is not capable of making the connection.  Negative reinforcement should be used only when correcting aggressive or disobedient behavior and used in conjunction with positive reinforcement.  (See section on \index{discipline}Discipline.)
 
-Don't expect the puppy to be totally house-trained until 16 weeks of age.  Even at this age, a lot depends on the consistency of your efforts. Persistent crate soiling in the older dog is either emotionally or medically connected.  It is possible through poor training to teach a dog this is acceptable.  If you have this problem, please contact the breeder or the references listed at the beginning of the manual for possible solutions.
+Don't expect the puppy to be totally house-trained until 16 weeks of age.  Even at this age, a lot depends on the consistency of your efforts. Persistent \index*{crate soiling} in the older dog is either emotionally or medically connected.  It is possible through poor training to teach a dog this is acceptable.  If you have this problem, please contact the breeder or the references listed at the beginning of the manual for possible solutions.
 
-The adult male marking in the house is a territorial and/or sexual behavior.  It occurs when the dog picks up the scent or sight of another dog. You must correct this with negative reinforcement and remove the scent.  A female in season will cause exceptional problems.
+The adult \index*{male marking} in the house is a territorial and/or sexual behavior.  It occurs when the dog picks up the scent or sight of another dog. You must correct this with negative reinforcement and remove the scent.  A female in season will cause exceptional problems.
 
 Other aspects of house training may be to stay off the furniture or stay out of bedrooms.  If you wish to enforce these, start as soon as you receive the dog.  To allow a pup to sit on your lap while on the couch only encourages him to jump up to get to your lap.  If he has been allowed in the bedrooms for three months then gets booted out, a basenji will question why and persist in entering.  Reward good behavior and discipline "NO" for unwanted behavior.
 
 
-## BASIC TRAINING
+## \index{basic training}BASIC TRAINING
 
-As with all canines, certain basic obedience is necessary to develop a good pet/owner relationship. Most young basenjis exhibit similar unruly behavior, such as: rushing the door with the intent of escaping; stealing food from the table or right out of your hand; jumping up on people, tables or forbidden furniture; dragging their owner behind them while on a walk.
+As with all canines, certain basic \index*{obedience} is necessary to develop a good pet/owner relationship. Most young basenjis exhibit similar unruly behavior, such as: rushing the door with the intent of escaping; stealing food from the table or right out of your hand; jumping up on people, tables or forbidden furniture; dragging their owner behind them while on a walk.
 
 The intent of this article is to give you, the master, some guidelines in training your basenji. Though no two basenjis are alike, and training should be tailored to the nature of each individual dog, these guidelines will provide you with the basic knowledge to begin training your basenji.
 
@@ -321,11 +321,11 @@ The intent of this article is to give you, the master, some guidelines in traini
 
 ![](images/BAS22.png)
 
-After about five weeks of working an exercise, expect a learning plateau where the dog makes little progress or even regresses.  Expect this and do not be discouraged.  Continue your training to overcome this plateau.
+After about five weeks of working an exercise, expect a \index*{learning plateau} where the dog makes little progress or even regresses.  Expect this and do not be discouraged.  Continue your training to overcome this plateau.
 
 In order to be fair to your dog, training must always proceed through the stages of:  1. Introduction (guiding and placement);  2. Correction (for not responding);  3. Proofing (introducing distractions and expecting obedience in different situations).
 
-Motivating your basenji to perform the desired exercise uses negative and positive reinforcement, as discussed under discipline.  Positive reinforcement should be encouraged to the greatest degree while using negative reinforcement sparingly, only after the dog has thoroughly learned the exercise.
+Motivating your basenji to perform the desired exercise uses negative and positive reinforcement, as discussed under discipline.  \index{positive reinforcement}Positive reinforcement should be encouraged to the greatest degree while using negative reinforcement sparingly, only after the dog has thoroughly learned the exercise.
 
 The repetitive use of placement or guidance is called Pattern Training.  This technique of guidance/placement and reward is the foundation of teaching a dog a command under most situations.
 
@@ -412,11 +412,11 @@ Always praise the dog for getting off something or someone when commanded regard
 C: If Benji gets off when commanded, but jumps right back up when you are not looking, command _"No Benji Off"_ while giving him a lead pop even though he may have jumped off.  Be firm.  It may take several tries before he gets the idea. Praise _"good off---good Benji"_ after he has lost interest in the object.
 
 
-## A Secure Yard
+## \index{yard, secure}A Secure Yard
 
 ![](images/BAS41.png)
 
-The Basenji is a master escape artist.  The degree to which one will go to escape varies from basenji to basenji, but most basenjis are quite capable of climbing a chain link fence regardless of the height, can master a standing vertical leap of 3 feet, climb a tree, and can clear tall buildings with a single bound.  Should he find no way to go over, he may find a way under.  If he doesn't succeed at digging his way out, he may try removing the fencing with his teeth, pulling with unbelievable force, or chewing his way through.
+The Basenji is a master \index{escape, yard}escape artist.  The degree to which one will go to escape varies from basenji to basenji, but most basenjis are quite capable of climbing a chain link fence regardless of the height, can master a standing vertical leap of 3 feet, climb a tree, and can clear tall buildings with a single bound.  Should he find no way to go over, he may find a way under.  If he doesn't succeed at \index*{digging} his way out, he may try removing the fencing with his teeth, pulling with unbelievable force, or \index*{chewing} his way through.
 
 These escape traits are the extremes which a basenji may or may not exhibit.  Some basenjis show little or no desire to escape, and are quite content to be confined by a 42 inch high porch railing, even though this would be an easy leap. On the other extreme, others are master escape artists, no matter what is tried.
 
@@ -430,7 +430,7 @@ A 4 x 10 foot, fully enclosed dog run is more humane.  Even in this limited spac
 
 Ideally, the completely fenced yard is best.  A 5 or 6 foot fence is a good start.  Should the dog find this an easy jump, attach 30 inches of wire game fencing to the top with heavy duty staples, nails, or wire and leave the top loose.  This will throw the dog backward and remove any foothold the dog would have for any type of climb or jump other than a full clearing leap.  Seven feet would be a very amazing clear leap even for a basenji.
 
-Should your basenji start digging under the fence, place a barricade of large rocks or cement blocks at its base.  Another deterrent is to fill the hole with the dog's own 'poop'.  For the very determined digger, try mixing the dirt as you refill the hole with generous amounts of Cayenne pepper. This will provide an automatic negative reinforcement for the dog since every time he tries to dig, he starts to sneeze.  This has proven very discouraging to persistent diggers.
+Should your basenji start \index*{digging} under the fence, place a barricade of large rocks or cement blocks at its base.  Another deterrent is to fill the hole with the dog's own 'poop'.  For the very determined digger, try mixing the dirt as you refill the hole with generous amounts of Cayenne pepper. This will provide an automatic negative reinforcement for the dog since every time he tries to dig, he starts to sneeze.  This has proven very discouraging to persistent diggers.
 
 Install solid latches on gates, up high enough to prevent the dogs from using them.  Make sure gates always are closed by using self closures or padlocks.  Inspect your fencing daily for possible escape routes he is currently working on, and repair such immediately!
 
@@ -472,35 +472,35 @@ Finally, advertise in the local paper.  Make sure your classified will be with t
 Hopefully, all of the preparation you take will never be necessary and your dog will never be lost.  If your dog is lost, remember most dogs are found and with the precautions mentioned above: up-to-date dog tags, tattoos and microchip implantations will aid in the safe return of your dog.
 
 
-## CHEWING
+## \index{chewing}CHEWING
 
 My dog and I were walking down the street one day and passed a lady working in her yard.  "Oh, what a pretty basenji", she exclaimed as she came down to visit. "I used to have a basenji, but she chewed everything so bad we had to give her up.  We only had her a week!"
 
 ![](images/BAS39.png)
 
-Yes, it is true that basenji puppies can be chewing machines. The inherited tendency to investigate the surroundings is very strong in a young dog.  Evolution encourages your pups to use their mouths to learn about their environment, as well as to find additional food sources.
+Yes, it is true that basenji puppies can be \index*{chewing} machines. The inherited tendency to investigate the surroundings is very strong in a young dog.  Evolution encourages your pups to use their mouths to learn about their environment, as well as to find additional food sources.
 
-Your success in preventing chewing problems depends on how effectively you can channel your puppy's tendency toward acceptable toys rather than household goods.
+Your success in preventing \index*{chewing} problems depends on how effectively you can channel your puppy's tendency toward acceptable toys rather than household goods.
 
-One common mistake people frequently make is to provide the pup with old socks or shoes.  The puppy, however, cannot distinguish between an old shoe and a good shoe.  If he learns that chewing leather is acceptable, then all leather goods become fair game.
+One common mistake people frequently make is to provide the pup with old socks or shoes.  The puppy, however, cannot distinguish between an old shoe and a good shoe.  If he learns that \index*{chewing} leather is acceptable, then all leather goods become fair game.
 
 Never leave a puppy unattended unless he's restricted to a damage proof area or in a crate. You wouldn't leave a toddler alone---why would you trust a puppy?  You know that your basenji will chew on something, so you can't blame him when he does.  Your puppy is not purposefully trying to be malicious or destructive. It is his instinct to chew.
 
 It is your fault for giving him the opportunity. Do not punish your puppy when you find a chewed object after the fact. Your puppy's mind probably won't make the connection.  (An adult basenji knows better, but not a puppy).  All you can do is clean up the mess and resolve to not let it happen again.  But, you say, "He looks so guilty when I scold him, he must know what he did wrong." How can you be sure your basenji makes the connection between the mess on the floor and his making the mess?  Try this experiment: Drop a piece of tissue on the floor and bring your basenji to it and scold him.  He will probably act very guilty, even though he has done nothing wrong. What connection has he made?
 
-Make sure that his acceptable chewing items cannot be swallowed or chewed into splinters. Some suggestions are hard nylon bone, hard rubber toy, Floss Rope, Gumabone, rawhide (when supervised).
+Make sure that his acceptable \index*{chewing} items cannot be swallowed or chewed into splinters. Some suggestions are hard nylon bone, hard rubber toy, Floss Rope, Gumabone, rawhide (when supervised).
 
-When he begins to chew something he shouldn't, correct him with a loud NO and remove the object. Immediately offer him one of his toys, but do not force it into his mouth.  Spray or dab the unacceptable items with a preparation that will discourage chewing such as Chew-Stop, Bitter Apple, rubbing alcohol, Tabasco Sauce, or clove oil, then put it into his mouth.  Praise him when he spits it out.
+When he begins to chew something he shouldn't, correct him with a loud NO and remove the object. Immediately offer him one of his toys, but do not force it into his mouth.  Spray or dab the unacceptable items with a preparation that will discourage \index*{chewing} such as Chew-Stop, Bitter Apple, rubbing alcohol, Tabasco Sauce, or clove oil, then put it into his mouth.  Praise him when he spits it out.
 
 Take him to all electrical cords within reach and repeat the procedure.  Remember to praise him when he spits out the cord.
 
-You may also wish to try dipping a Q-Tip in one of these substances.  Insert the Q-Tip into the unsuspecting puppy's mouth while he is chewing on an unacceptable object. (Don't forewarn him.) Repeated consistently, soon, he'll find his toys are the only safe ones to chew on.  This method doesn't scent the actual objects, making a choice between his toys and forbidden objects based on experience, not by a given scent.
+You may also wish to try dipping a Q-Tip in one of these substances.  Insert the Q-Tip into the unsuspecting puppy's mouth while he is \index*{chewing} on an unacceptable object. (Don't forewarn him.) Repeated consistently, soon, he'll find his toys are the only safe ones to chew on.  This method doesn't scent the actual objects, making a choice between his toys and forbidden objects based on experience, not by a given scent.
 
 Pick up all potentially harmful objects such as needles, bottle caps, or anything else that could be easily ingested.
 
 Get into the habit of looking for trouble before it occurs.
 
-Basenjis LOVE to get into things such as the garbage and the dirty underwear.  They also quickly learn how to open the kitchen cabinets to get to those enticing odors.  Recently, I knew a basenji that chewed up a fur jacket.  Basenjis have been known to chew such things as pillows, couches, chairs, car seats, quilts, chair and table legs, corners of coffee tables, door jambs, rugs, any bedding you put in the crate, curtains, and anything plastic.  Basenjis also make great paper shredders and love to tear any piece of Kleenex, cardboard, disposable diaper (new or used), and newspaper into tiny pieces.  This chewing behavior, uncontrolled, may result in poisoning or other serious health problems.
+Basenjis LOVE to get into things such as the garbage and the dirty underwear.  They also quickly learn how to open the kitchen cabinets to get to those enticing odors.  Recently, I knew a basenji that chewed up a fur jacket.  Basenjis have been known to chew such things as pillows, couches, chairs, car seats, quilts, chair and table legs, corners of coffee tables, door jambs, rugs, any bedding you put in the crate, curtains, and anything plastic.  Basenjis also make great paper shredders and love to tear any piece of Kleenex, cardboard, disposable diaper (new or used), and newspaper into tiny pieces.  This \index*{chewing} behavior, uncontrolled, may result in poisoning or other serious health problems.
 
 Basenji puppies will chew on anything when given the opportunity.  Please take some precautions to help your pup through a troublesome stage of development without harm to himself or to your home.  Do both of you a favor and start him out right. Please follow the recommendations of your Breeder, and crate or confine your basenji when you are not there to watch him.
 

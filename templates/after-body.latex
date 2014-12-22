@@ -4,15 +4,16 @@
 
 \backmatter
 
-\bibliographystyle{plain}
-\cleardoublepage
-\phantomsection
-\addcontentsline{toc}{chapter}{Bibliography}
-\bibliography{manuscript/references}
-\nocite{*}
+%%\bibliographystyle{plain}
+%\bibliographystyle{bom-bib.bst}
+%\cleardoublepage
+%\phantomsection
+%\addcontentsline{toc}{chapter}{Bibliography}
+%\bibliography{manuscript/references}
+%\nocite{*}
 
 \cleardoublepage
-%\phantomsection
+\phantomsection
 \addcontentsline{toc}{chapter}{Index}
 \printindex
 

@@ -13,7 +13,7 @@ _**\index*{Hepatitis} (H):**_  A viral infection characterized by inflammation o
 
 _**\index*{Leptospirosis} (L):**_  A series of bacterial infections cause by several members of the genus Leptospira, involving liver and kidneys.
 
-_**\index*{Parainfluenza} (P):**_  and/or _**Adenovirus type 2 (A2):**_  A complex of viral respiratory infections, characterized by bronchitis, including "Kennel Cough".
+_**\index*{Parainfluenza} (P):**_  and/or _**\index*{Adenovirus} type 2 (A2):**_  A complex of viral respiratory infections, characterized by bronchitis, including "Kennel Cough".
 
 _**\index*{Parvovirus} (PV):**_  A viral infection characterized by severe enteritis with vomiting and bloody diarrhea---often rapidly fatal in young pups.
 

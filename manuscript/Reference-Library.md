@@ -3,77 +3,81 @@
 
 ## PERIODICALS
 
-THE BASENJI   monthly. Windigo Harbor Media P.O. box 182397 Shelby Twp, MI 48318   www.thebasenji.com  E-mail: info@thebasenji.com.
+_THE BASENJI_---monthly.  Windigo Harbor Media P.O. box 182397 Shelby Twp, MI 48318   www.thebasenji.com  E-mail: info@thebasenji.com.
 
-PURE BRED DOGS AMERICAN KENNEL GAZETTE   AKC   monthly.  orderdesk@akc.org
+_PURE BRED DOGS AMERICAN KENNEL GAZETTE_---AKC---monthly.  orderdesk@akc.org
 
-FIELD ADVISORY NEWS (FAN)   Bi monthly, official publication of American Sighthound Field Association, $14/year Vicky Clarke, Editor. 2234 Walnut Ave. McKinleyville, CA 95521
+_FIELD ADVISORY NEWS_ (FAN)---bi-monthly, official publication of American Sighthound Field Association, $14/year Vicky Clarke, Editor. 2234 Walnut Ave. McKinleyville, CA 95521
 
-THE AKC COURSING NEWS published quarterly by the American Kennel Club 5580 Centerview Drive; Raleigh, NC 27606-3390.
+_THE AKC COURSING NEWS_---published quarterly by the American Kennel Club 5580 Centerview Drive; Raleigh, NC 27606-3390.
 
-SIGHTHOUND REVIEW.   bi monthly,  PO Box 30430, Santa Barbara, CA  93130
+_SIGHTHOUND REVIEW_---bi-monthly, PO Box 30430, Santa Barbara, CA  93130
 
-THE BULLETIN   official publication of the Basenji Club of America, Inc.  Quarterly, You need to join BCOA to get this one!  http://www.basenji.org/member.htm
+_THE BULLETIN_---official publication of the Basenji Club of America, Inc.  Quarterly, You need to join BCOA to get this one!  http://www.basenji.org/member.htm
 
-DOGS USA   yearly, buy at your newsstand, a great resource for articles and book publishers
+_DOGS USA_---yearly, buy at your newsstand, a great resource for articles and book publishers
 
-THE WINDHOUND   bi monthly, a publication on sighthounds.  4401 Zephyr ST., Wheat Ridge, CO  80033 3299
+_THE WINDHOUND_---bi monthly, a publication on sighthounds.  4401 Zephyr ST., Wheat Ridge, CO  80033 3299
 
-BOOKS
 
-The following books are available at your local bookstore or thru Amazon.com.  Another convenient source is through book vendors at dog shows.
+## BOOKS
 
-THE BASENJI STACKED AND MOVING   Robert Cole, ISBN: 0920939007  on Amazon.com 
+The following books are available at your local bookstore or thru
+Amazon.com.  Another convenient source is through book vendors at
+dog shows.
 
-FULA-BASENJI FROM THE JUNGLE - Veronica Tudor-Williams Order from THE BASENJI 
+_THE BASENJI STACKED AND MOVING_---Robert Cole, ISBN: 0920939007 on Amazon.com 
 
-THE BASENJI-OUT OF AFRICA TO YOU - Susan Coe. Doral Publications, PO BOX 596, Wilsonville, OR 97070. $24.95.  Also on Amazon.com  ISBN: 0944875424
+_FULA: BASENJI FROM THE JUNGLE_---Veronica Tudor-Williams.  Order from THE BASENJI 
 
-CANDLE: A STORY OF LOVE & FAITH - Sally Ann Smith. Doral Publications, PO BOX 596, Wilsonville, OR 97070. Also on Amazon.com ISBN: 094487522X
+_THE BASENJI: OUT OF AFRICA TO YOU_---Susan Coe.  Doral Publications, PO BOX 596, Wilsonville, OR 97070. $24.95.  Also on Amazon.com  ISBN: 0944875424
 
-AT HOME WITH YOUR BASENJI – BCOSW  c/o Patricia L. Bright, W. 1358 S. Shore DR., Palmyra WI 53156-9798. $5.00
+_CANDLE: A STORY OF LOVE & FAITH_---Sally Ann Smith. Doral Publications, PO BOX 596, Wilsonville, OR 97070. Also on Amazon.com ISBN: 094487522X
 
-THE COMPLETE BASENJI - Elspet Ford ISBN: 087605016X On Amazon.com 
+_AT HOME WITH YOUR BASENJI_---BCOSW c/o Patricia L. Bright, W. 1358 S. Shore DR., Palmyra WI 53156-9798. $5.00
 
-HOW TO RAISE AND TRAIN A BASENJI - T.F.H.
+_THE COMPLETE BASENJI_---Elspet Ford ISBN: 087605016X On Amazon.com 
 
-HOW TO SHOW YOUR OWN DOG  Virginia Tuck Nichols
+_HOW TO RAISE AND TRAIN A BASENJI_---T.F.H.
 
-YOUR BASENJI – ISBN: 0877140413
+_HOW TO SHOW YOUR OWN DOG_---Virginia Tuck Nichols
 
-COMPLETE DOG BOOK   AKC
+_YOUR BASENJI_---ISBN: 0877140413
 
-NEW KNOWLEDGE OF DOG BEHAVIOR   Pfaffenberger
+_COMPLETE DOG BOOK_---AKC
 
-MOTHER KNOWS BEST   THE NATURAL WAY TO TRAIN YOUR DOG   Benjamin
+_NEW KNOWLEDGE OF DOG BEHAVIOR_---Pfaffenberger
 
-KOEHLER METHOD OF DOG TRAINING – Koehler  ISBN: 0876055773  On Amazon.com
+_MOTHER KNOWS BEST: THE NATURAL WAY TO TRAIN YOUR DOG_---Benjamin
 
-TRAINING YOUR DOG   STEP BY STEP MANUAL   Volhard & Fisher
+_KOEHLER METHOD OF DOG TRAINING_---Koehler  ISBN: 0876055773  On Amazon.com
 
-SUPERTRAINING YOUR DOG – Loeb ; ISBN: 0671732099
+_TRAINING YOUR DOG: STEP BY STEP MANUAL_---Volhard & Fisher
 
-DOG OWNERS HOME VETERINARY HANDBOOK   Carlson & Giffen ISBN: 0876052014  On Amazon.com
+_SUPERTRAINING YOUR DOG_---Loeb ; ISBN: 0671732099
 
-THE DOG IN ACTION   Lyon
+_DOG OWNERS HOME VETERINARY HANDBOOK_---Carlson & Giffen ISBN: 0876052014  On Amazon.com
 
-THE NEW DOGSTEPS   Elliott
+_THE DOG IN ACTION_---Lyon
 
-THE DYNAMICS OF CANINE GAIT   Hollenbeck
+_THE NEW DOGSTEPS_---Elliott
 
-CANINE TERMINOLOGY – Spira  ISBN: 0876054165 
+_THE DYNAMICS OF CANINE GAIT_---Hollenbeck
 
-FIRST AID FOR PETS   Robert W. Kirk DVM
+_CANINE TERMINOLOGY_---Spira  ISBN: 0876054165 
 
-BEYOND BASIC TRAINING   Bauman
+_FIRST AID FOR PETS_---Robert W. Kirk DVM
 
-PLAYTRAINING YOUR DOG   Burnham
+_BEYOND BASIC TRAINING_---Bauman
 
-THE ART OF RAISING A PUPPY - The Monks of New Skete ISBN: 0316578398  On Amazon
+_PLAYTRAINING YOUR DOG_---Burnham
 
-BASENJI, DOG FROM THE PAST – Johnson ISBN: 1882032004  On Amazon.com
+_THE ART OF RAISING A PUPPY_---The Monks of New Skete ISBN: 0316578398  On Amazon
 
-INTERNET
+_BASENJI: DOG FROM THE PAST_---Johnson ISBN: 1882032004  On Amazon.com
+
+
+## INTERNET
 
 EBC web page:  www.basenji.org/ebc
 
@@ -83,9 +87,10 @@ AKC official web page:  www.akc.org
 
 ...or search on “basenji” to find many other Basenji sites.
 
-FANCONI PROTOCOL
 
-FANCONI DISEASE MANAGEMENT PROTOCOL FOR VETERINARIANS  2 page flyer available from 
+## FANCONI PROTOCOL
+
+_FANCONI DISEASE MANAGEMENT PROTOCOL FOR VETERINARIANS_---2 page flyer available from:
 
 Steve Gonto,  MMSc, PhD.-Med.Sc,  6 Cedar Point Drive, Savannah, Georgia 31405
 

@@ -26,13 +26,14 @@ sources = \
 	$(srcdir)/Ch3-Caring-For-Your-Basenji.md \
 	$(srcdir)/Ch4-Basenji-Activities.md \
 	$(srcdir)/Ch5-About-The-Evergreen-Basenji-Club.md \
+	$(srcdir)/Reference-Library.md \
 
 frontsources = \
 	$(srcdir)/Introduction.md \
 	$(srcdir)/Your-Basenji.md \
 
-backsources = \
-	$(srcdir)/Reference-Library.md \
+#backsources = \
+#	$(srcdir)/Reference-Library.md \
 
 templatesdir = templates
 
@@ -53,7 +54,7 @@ $(outdir):
 	mkdir $(outdir)
 
 frontmatter = $(outdir)/frontmatter.latex
-backmatter = $(outdir)/backmatter.latex
+#backmatter = $(outdir)/backmatter.latex
 
 $(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(frontsources) $(backsources) | $(outdir)
 	$(PANDOC) \
@@ -61,10 +62,10 @@ $(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(frontsources) $(backs
 		--output=$(frontmatter) \
 		$(frontsources)
 
-	$(PANDOC) \
-		$(PANDOC_FLAGS) \
-		--output=$(backmatter) \
-		$(backsources)
+#	$(PANDOC) \
+#		$(PANDOC_FLAGS) \
+#		--output=$(backmatter) \
+#		$(backsources)
 
 	$(PANDOC) \
 		$(PANDOC_FLAGS) \
@@ -75,11 +76,12 @@ $(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(frontsources) $(backs
 		--include-in-header=$(templatesdir)/header.latex \
 		--include-before-body=$(templatesdir)/before-body.latex \
 		--include-before-body=$(frontmatter) \
-		--include-after-body=$(backmatter) \
 		--include-after-body=$(templatesdir)/after-body.latex \
 		--metadata=include-frontmatter:$(templatesdir)/before-body.latex \
 		--output=$@ \
 		$(sources)
+
+#		--include-after-body=$(backmatter) \
 
 	# Need to tweak output latex to change "\includegraphics{images/" into
 	# "\includegraphics{manuscript/images/" because pdflatex is being run
@@ -95,8 +97,8 @@ $(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(frontsources) $(backs
 .latex.pdf:
 	@echo ===== LaTeX: first pass... =====
 	$(LATEX) $(LATEX_FLAGS) $^
-	@echo ===== BibTeX pass... =====
-	bibtex $(basename $^)
+	#@echo ===== BibTeX pass... =====
+	#bibtex $(basename $^)
 	@echo ===== LaTeX: second pass... =====
 	$(LATEX) $(LATEX_FLAGS) $^
 	@echo ===== mkindex pass... =====

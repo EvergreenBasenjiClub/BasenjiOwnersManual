@@ -88,6 +88,10 @@ $(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(frontsources) $(backs
 	# from this directory (not from within manuscript or within output).
 	sed --in-place --expression='s/\(\\includegraphics{\)\(images\)/\1manuscript\/\2/' $@
 
+	# Specifically patch the height for one image...
+	#\includegraphics{manuscript/images/leash-for-lead-pop.png
+	sed --in-place --expression='s/\(\\includegraphics\)\({manuscript\/images\/leash-for-lead-pop.png}\)/\1[height=\\textheight]\2/' $@
+
 # .latex.idx:
 # 	latex $@
 

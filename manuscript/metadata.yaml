@@ -6,18 +6,33 @@ date: 'January 1, 2015'
 # title-meta: Basenji Owners Manual
 # author-meta: Evergreen Basenji Club
 
-documentclass: book
+# documentclass and fontsize: the 'book' documentclass only supports the
+# "most-common" font sizes: 10pt (default), 11pt, and 12pt.  For additional
+# sizes, the 'extbook' class can be used, which adds 8pt, 9pt, 14pt, 17pt, and
+# 20pt.
+
+# 10pt is just a hair large on a 6x9 page, so we use extbook to drop to 9pt.
+# documentclass: extbook
+documentclass: memoir
+papersize: ebook
 fontsize: 10pt
+mainfont: Palatino
+# mainfont: Adobe Garamond Pro
+linespread: 1.08333
 
 geometry:
-    - paperwidth=6in
-    - paperheight=9in
-    - bindingoffset=0.5in
-    - top=0.5in
-    - bottom=0.5in
-    - inner=0.75in
-    - outer=0.75in
-    - includeheadfoot
+  # - showcrop
+  # - showframe
+  - paperwidth=6in
+  - paperheight=9in
+  - bindingoffset=0.5in
+  - top=1.0in
+  - bottom=0.75in
+  - inner=0.5in
+  - outer=0.5in
+  - headsep=0.5in
+  - footskip=0.25in
+
 
 #classoption: draft
 citecolor: black

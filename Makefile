@@ -2,15 +2,24 @@
 
 all: book
 
+# figure out the OS...
+OS := $(shell uname -s)
+
 .PHONY: all clean latex book preview
 .SUFFIXES:
 .SUFFIXES: .latex .pdf
 
-LATEX = pdflatex
-LATEX_FLAGS = --output-directory=$(outdir) --interaction=nonstopmode
+# LATEX = pdflatex
+LATEX = xelatex
+LATEX_FLAGS = -output-directory=$(outdir) --interaction=nonstopmode
 
 PANDOC = pandoc
 PANDOC_FLAGS = --from=markdown --to=latex
+
+PREVIEW = evince
+ifeq ($(OS),Darwin)
+    PREVIEW = open
+endif
 
 outdir = output
 bookname = BasenjiOwnersManual
@@ -48,7 +57,7 @@ latex: $(outdir)/$(bookname).latex
 book: $(outdir)/$(bookname).pdf
 
 preview: book
-	evince $(outdir)/$(bookname).pdf
+	$(PREVIEW) $(outdir)/$(bookname).pdf
 
 $(outdir):
 	mkdir $(outdir)
@@ -70,7 +79,7 @@ $(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(frontsources) $(backs
 	$(PANDOC) \
 		$(PANDOC_FLAGS) \
 		--standalone \
-		--chapters \
+		--top-level-division=chapter \
 		--table-of-contents \
 		--template=$(templatesdir)/template.latex \
 		--include-in-header=$(templatesdir)/header.latex \
@@ -81,16 +90,20 @@ $(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(frontsources) $(backs
 		--output=$@ \
 		$(sources)
 
-#		--include-after-body=$(backmatter) \
+		# --include-after-body=$(backmatter) \
 
-	# Need to tweak output latex to change "\includegraphics{images/" into
-	# "\includegraphics{manuscript/images/" because pdflatex is being run
-	# from this directory (not from within manuscript or within output).
-	sed --in-place --expression='s/\(\\includegraphics{\)\(images\)/\1manuscript\/\2/' $@
+	@# Need to tweak output latex to change "\includegraphics{images/" into
+	@# "\includegraphics{manuscript/images/" because pdflatex is being run
+	@# from this directory (not from within manuscript or within output).
+	sed -e 's/\(\\includegraphics{\)\(images\)/\1manuscript\/\2/' $@ > $@.sed1
 
-	# Specifically patch the height for one image...
-	#\includegraphics{manuscript/images/leash-for-lead-pop.png
-	sed --in-place --expression='s/\(\\includegraphics\)\({manuscript\/images\/leash-for-lead-pop.png}\)/\1[height=\\textheight]\2/' $@
+	@# Specifically patch the height for one image...
+	@#\includegraphics{manuscript/images/leash-for-lead-pop.png
+	sed -e 's/\(\\includegraphics\)\({manuscript\/images\/leash-for-lead-pop.png}\)/\1[height=\\textheight]\2/' $@.sed1 > $@.sed2
+
+	rm -f $@
+	rm -f $@.sed1
+	mv $@.sed2 $@
 
 # .latex.idx:
 # 	latex $@
@@ -100,15 +113,16 @@ $(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(frontsources) $(backs
 
 .latex.pdf:
 	@echo ===== LaTeX: first pass... =====
-	$(LATEX) $(LATEX_FLAGS) $^
+	-$(LATEX) $(LATEX_FLAGS) $^
 	#@echo ===== BibTeX pass... =====
 	#bibtex $(basename $^)
 	@echo ===== LaTeX: second pass... =====
-	$(LATEX) $(LATEX_FLAGS) $^
+	-$(LATEX) $(LATEX_FLAGS) $^
 	@echo ===== mkindex pass... =====
 	mkindex $(basename $^)
-	# @echo ===== LaTeX: third pass... =====
-	# $(LATEX) $(LATEX_FLAGS) $^
+	@echo ===== LaTeX: third pass... =====
+	@# expect non-zero exit code!
+	-$(LATEX) $(LATEX_FLAGS) $^
 	@echo ===== LaTeX: final pass... =====
 	-$(LATEX) $(LATEX_FLAGS) $^
 #dvipdf $(basename $^).dvi $@

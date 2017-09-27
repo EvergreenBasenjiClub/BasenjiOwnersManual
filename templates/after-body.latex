@@ -2,19 +2,25 @@
 %% AFTER BODY BEGIN
 %%
 
-\backmatter
+%\backmatter
 
-%%\bibliographystyle{plain}
-%\bibliographystyle{bom-bib.bst}
-%\cleardoublepage
-%\phantomsection
-%\addcontentsline{toc}{chapter}{Bibliography}
-%\bibliography{manuscript/references}
-%\nocite{*}
+% \bibliographystyle{plain}
+% \bibliographystyle{bom-bib.bst}
+% \cleardoublepage
+% \phantomsection
+% \addcontentsline{toc}{chapter}{Bibliography}
+% \bibliography{manuscript/references}
+% \nocite{*}
+% \bibliography{/Users/jreising/GitHub/BasenjiOwnersManual/manuscript/references}
 
 \cleardoublepage
 \phantomsection
-\addcontentsline{toc}{chapter}{Index}
+%\addcontentsline{toc}{chapter}{Index}
+\pagestyle{Index}
+% \usepackage{ltxdoc} <-- doesn't work in preamble!
+% \newcommand{\pfill}{, }
+\def\pfill{\unskip~\dotfill\penalty500
+  \strut\nobreak\leaders\hbox to.6em{\hss.\hss}\hfil~\ignorespaces}
 \printindex
 
 %%

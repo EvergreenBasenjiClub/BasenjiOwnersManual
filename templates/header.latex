@@ -4,11 +4,16 @@
 
 \usepackage{layout}
 
-% \usepackage{tgbonum}
-% \usepackage{tgpagella}
-% \usepackage{tgadventor}
-% \usepackage{tgheros}
-% \usepackage{kpfonts}
+% \pretitle{\begin{flushright}\HUGE}
+\setlength{\droptitle}{-50pt}
+\pretitle{\begin{center}\fontsize{80pt}{70pt}\selectfont}
+\posttitle{\normalfont\par\end{center}\vskip 3in}
+\preauthor{\begin{center}\LARGE}
+\postauthor{\end{center}\clearpage}
+\predate{\vspace*{5in}\begin{center}\large Published }
+\postdate{\end{center}}
+
+\chapterstyle{ger}
 
 \usepackage{index}
 \makeindex
@@ -28,6 +33,8 @@
 %    \stepcounter{chapter}
 %    \textcolor{chapterfg}{\thechapter}
 % S}
+
+% \addbibresource{references.bib}
 
 %%
 %% HEADER END

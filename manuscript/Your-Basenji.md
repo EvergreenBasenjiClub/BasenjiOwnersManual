@@ -10,14 +10,14 @@ ______________________
 
 
 
-## \index*{AKC} \index{registration}Registration
+## \index{AKC}AKC \index{registration}Registration
 
 _________________________________________
 
 (Complete and send to AKC the blue slip provided by your breeder)
 
 
-## Puppy \index*{immunization} record
+## Puppy \index{immunization}immunization record
 
 Type & date
 
@@ -34,7 +34,7 @@ ________________________________________
 
 
 
-## Puppy \index*{worming} record
+## Puppy \index{worming}worming record
 
 Type & date
 

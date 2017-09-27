@@ -1,7 +1,7 @@
 # Reference Library
 
 
-## PERIODICALS
+## Periodicals
 
 _THE BASENJI_---monthly.  Windigo Harbor Media P.O. box 182397 Shelby Twp, MI 48318   www.thebasenji.com  E-mail: info@thebasenji.com.
 
@@ -20,15 +20,15 @@ _DOGS USA_---yearly, buy at your newsstand, a great resource for articles and bo
 _THE WINDHOUND_---bi monthly, a publication on sighthounds.  4401 Zephyr ST., Wheat Ridge, CO  80033 3299
 
 
-## BOOKS
+## Books
 
 The following books are available at your local bookstore or thru
 Amazon.com.  Another convenient source is through book vendors at
 dog shows.
 
-_THE BASENJI STACKED AND MOVING_---Robert Cole, ISBN: 0920939007 on Amazon.com 
+_THE BASENJI STACKED AND MOVING_---Robert Cole, ISBN: 0920939007 on Amazon.com
 
-_FULA: BASENJI FROM THE JUNGLE_---Veronica Tudor-Williams.  Order from THE BASENJI 
+_FULA: BASENJI FROM THE JUNGLE_---Veronica Tudor-Williams.  Order from THE BASENJI
 
 _THE BASENJI: OUT OF AFRICA TO YOU_---Susan Coe.  Doral Publications, PO BOX 596, Wilsonville, OR 97070. $24.95.  Also on Amazon.com  ISBN: 0944875424
 
@@ -36,7 +36,7 @@ _CANDLE: A STORY OF LOVE & FAITH_---Sally Ann Smith. Doral Publications, PO BOX 
 
 _AT HOME WITH YOUR BASENJI_---BCOSW c/o Patricia L. Bright, W. 1358 S. Shore DR., Palmyra WI 53156-9798. $5.00
 
-_THE COMPLETE BASENJI_---Elspet Ford ISBN: 087605016X On Amazon.com 
+_THE COMPLETE BASENJI_---Elspet Ford ISBN: 087605016X On Amazon.com
 
 _HOW TO RAISE AND TRAIN A BASENJI_---T.F.H.
 
@@ -64,7 +64,7 @@ _THE NEW DOGSTEPS_---Elliott
 
 _THE DYNAMICS OF CANINE GAIT_---Hollenbeck
 
-_CANINE TERMINOLOGY_---Spira  ISBN: 0876054165 
+_CANINE TERMINOLOGY_---Spira  ISBN: 0876054165
 
 _FIRST AID FOR PETS_---Robert W. Kirk DVM
 
@@ -77,18 +77,18 @@ _THE ART OF RAISING A PUPPY_---The Monks of New Skete ISBN: 0316578398  On Amazo
 _BASENJI: DOG FROM THE PAST_---Johnson ISBN: 1882032004  On Amazon.com
 
 
-## INTERNET
+## Internet
 
 EBC web page:  www.basenji.org/ebc
 
-BCOA official web page:  www.basenji.org 
+BCOA official web page:  www.basenji.org
 
 AKC official web page:  www.akc.org
 
-...or search on “basenji” to find many other Basenji sites.
+...or search on basenji" to find many other Basenji sites.
 
 
-## FANCONI PROTOCOL
+## Fanconi Protocol
 
 _FANCONI DISEASE MANAGEMENT PROTOCOL FOR VETERINARIANS_---2 page flyer available from:
 
@@ -96,5 +96,4 @@ Steve Gonto,  MMSc, PhD.-Med.Sc,  6 Cedar Point Drive, Savannah, Georgia 31405
 
 Or online at http://www.basenji.org/
 
-Many thanks to Steve Gonto for researching this protocol. 
-
+Many thanks to Steve Gonto for researching this protocol.

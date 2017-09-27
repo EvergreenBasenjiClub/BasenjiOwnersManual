@@ -120,15 +120,17 @@ $endif$
   \usepackage[unicode=true]{hyperref}
 \fi
 
-\hypersetup{breaklinks=true,
-            bookmarks=true,
-            pdfauthor={$author-meta$},
-            pdftitle={$title-meta$},
-            colorlinks=true,
-            citecolor=$if(citecolor)$$citecolor$$else$blue$endif$,
-            urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$,
-            linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
-            pdfborder={0 0 0}}
+\hypersetup{
+    breaklinks=true,
+    bookmarks=true,
+    pdfauthor={$author-meta$},
+    pdftitle={$title-meta$},
+    colorlinks=true,
+    citecolor=$if(citecolor)$$citecolor$$else$blue$endif$,
+    urlcolor=$if(urlcolor)$$urlcolor$$else$blue$endif$,
+    linkcolor=$if(linkcolor)$$linkcolor$$else$magenta$endif$,
+    pdfborder={0 0 0}
+}
 \urlstyle{same}  % don't use monospace font for urls
 
 $if(links-as-notes)$
@@ -188,8 +190,10 @@ $endif$
 \begin{document}
 
 $if(title)$
-  \pagestyle{empty}
-  \maketitle
+  % \pagestyle{empty}
+  \begin{titlingpage}
+    \maketitle
+  \end{titlingpage}
 $endif$
 
 \frontmatter
@@ -200,6 +204,7 @@ $endfor$
 
 $if(toc)$
   {
+    \cleardoublepage
     \hypersetup{linkcolor=black}
     \setcounter{tocdepth}{$toc-depth$}
     \tableofcontents
@@ -225,6 +230,9 @@ $if(natbib)$
       $else$
         \renewcommand\refname{$biblio-title$}
       $endif$
+    $endif$
+    $if(biblio-nociteall)$
+      \nocite{*}
     $endif$
     \bibliography{$biblio-files$}
   $endif$

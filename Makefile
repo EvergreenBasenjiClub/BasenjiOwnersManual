@@ -1,20 +1,24 @@
 # Makefile for book publishing...
 
 all: book
+.PHONY: all
 
 # figure out the OS...
 OS := $(shell uname -s)
 
-.PHONY: all clean latex book preview
+# .PHONY: all clean latex book preview
 .SUFFIXES:
 .SUFFIXES: .latex .pdf
+
+PANDOC = pandoc
+PANDOC_FLAGS = --from=markdown --to=latex
 
 # LATEX = pdflatex
 LATEX = xelatex
 LATEX_FLAGS = -output-directory=$(outdir) --interaction=nonstopmode
 
-PANDOC = pandoc
-PANDOC_FLAGS = --from=markdown --to=latex
+INDEX = makeindex
+INDEX_FLAGS = -s ./templates/index.sty
 
 PREVIEW = evince
 ifeq ($(OS),Darwin)
@@ -52,43 +56,63 @@ templatefiles = \
 	$(templatesdir)/before-body.latex \
 	$(templatesdir)/after-body.latex
 
-latex: $(outdir)/$(bookname).latex
-
 book: $(outdir)/$(bookname).pdf
+.PHONY: book
 
 preview: book
 	$(PREVIEW) $(outdir)/$(bookname).pdf
+.PHONY: preview
 
 $(outdir):
 	mkdir $(outdir)
 
-frontmatter = $(outdir)/frontmatter.latex
-#backmatter = $(outdir)/backmatter.latex
+chaptercount = 2
+ifdef FINAL_PDF
+  chaptercount = 99
+endif
 
-$(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(frontsources) $(backsources) | $(outdir)
+ifdef FINAL_PDF
+$(outdir)/frontmatter.latex: $(frontsources) | $(outdir)
 	$(PANDOC) \
 		$(PANDOC_FLAGS) \
-		--output=$(frontmatter) \
+		--output=$@ \
 		$(frontsources)
+else
+$(outdir)/frontmatter.latex: | $(outdir)
+	touch $@
+endif
 
-#	$(PANDOC) \
-#		$(PANDOC_FLAGS) \
-#		--output=$(backmatter) \
-#		$(backsources)
+# $(outdir)/backmatter.latex: $(backsources) | $(outdir)
+# 	$(PANDOC) \
+# 		$(PANDOC_FLAGS) \
+# 		--output=$@ \
+# 		$(backsources)
 
+ARG_TOC =
+ARG_FRONTMATTER =
+
+ifdef FINAL_PDF
+    ARG_TOC = --table-of-contents
+    ARG_FRONTMATTER = --include-before-body=$(outdir)/frontmatter.latex
+endif
+
+latex: clean $(outdir)/$(bookname).latex
+.PHONY: latex
+
+$(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(outdir)/frontmatter.latex $(backsources)
 	$(PANDOC) \
 		$(PANDOC_FLAGS) \
 		--standalone \
 		--top-level-division=chapter \
-		--table-of-contents \
+		$(ARG_TOC) \
 		--template=$(templatesdir)/template.latex \
 		--include-in-header=$(templatesdir)/header.latex \
 		--include-before-body=$(templatesdir)/before-body.latex \
-		--include-before-body=$(frontmatter) \
+		$(ARG_FRONTMATTER) \
 		--include-after-body=$(templatesdir)/after-body.latex \
 		--metadata=include-frontmatter:$(templatesdir)/before-body.latex \
 		--output=$@ \
-		$(sources)
+		$(wordlist 1, $(chaptercount), $(sources))
 
 		# --include-after-body=$(backmatter) \
 
@@ -101,9 +125,11 @@ $(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(frontsources) $(backs
 	@#\includegraphics{manuscript/images/leash-for-lead-pop.png
 	sed -e 's/\(\\includegraphics\)\({manuscript\/images\/leash-for-lead-pop.png}\)/\1[height=\\textheight]\2/' $@.sed1 > $@.sed2
 
+	@# remove empty captions...
+	sed -e '/^[[:space:]]*\\caption{}$$/d' $@.sed2 > $@.sed3
 	rm -f $@
-	rm -f $@.sed1
-	mv $@.sed2 $@
+	mv $@.sed3 $@
+	rm -f $@.sed*
 
 # .latex.idx:
 # 	latex $@
@@ -112,32 +138,22 @@ $(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(frontsources) $(backs
 # 	makeindex $(basename $@)
 
 .latex.pdf:
+ifdef FINAL_PDF
 	@echo ===== LaTeX: first pass... =====
 	-$(LATEX) $(LATEX_FLAGS) $^
 	#@echo ===== BibTeX pass... =====
-	#bibtex $(basename $^)
+	bibtex $(basename $^)
 	@echo ===== LaTeX: second pass... =====
 	-$(LATEX) $(LATEX_FLAGS) $^
 	@echo ===== mkindex pass... =====
-	mkindex $(basename $^)
+	$(INDEX) $(INDEX_FLAGS) $(basename $^)
 	@echo ===== LaTeX: third pass... =====
 	@# expect non-zero exit code!
 	-$(LATEX) $(LATEX_FLAGS) $^
+endif
 	@echo ===== LaTeX: final pass... =====
 	-$(LATEX) $(LATEX_FLAGS) $^
-#dvipdf $(basename $^).dvi $@
-#pandoc -o $@ $^
-
-# book: xxx.pdf xxx.latex
-
-# input = manuscript/a-brief-background.md
-# xxx.pdf: $(input)
-# 	pandoc -o xxx.pdf $(input)
-
-# yyy.latex: $(input)
-# 	pandoc -o yyy.latex $(input)
-
-# yyy.pdf: yyy.latex
 
 clean:
 	-rm -rfv $(outdir)
+.PHONY: clean

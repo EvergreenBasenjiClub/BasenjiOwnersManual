@@ -16,8 +16,14 @@ date: 'January 1, 2015'
 documentclass: memoir
 papersize: ebook
 fontsize: 10pt
-mainfont: Palatino
+# mainfont: Palatino
 # mainfont: Adobe Garamond Pro
+# mainfont: Cochin
+# mainfont: Chaparral Pro
+# mainfont: Constantia
+# mainfont: Hoefler Text
+mainfont: Minion Pro
+# mainfont: OFL Sorts Mill Goudy
 linespread: 1.08333
 
 geometry:
@@ -30,6 +36,7 @@ geometry:
   - bottom=0.75in
   - inner=0.5in
   - outer=0.5in
+  # - outer=1in
   - headsep=0.5in
   - footskip=0.25in
 
@@ -38,4 +45,10 @@ geometry:
 citecolor: black
 urlcolor: black
 linkcolor: black
+
+natbib: true
+# bibliostyle: unsrtnat
+bibliostyle: fooo
+biblio-files: /Users/jreising/GitHub/BasenjiOwnersManual/manuscript/references
+biblio-nociteall: true
 ---

@@ -46,7 +46,7 @@ citecolor: black
 urlcolor: black
 linkcolor: black
 
-graphicsmaxwidth: 0.75
+graphicsmaxwidth: 0.5
 
 biblatex:
   - sorting=none

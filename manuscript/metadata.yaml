@@ -46,12 +46,6 @@ citecolor: black
 urlcolor: black
 linkcolor: black
 
-# natbib: true
-# # bibliostyle: unsrtnat
-# bibliostyle: fooo
-# biblio-files: /Users/jreising/GitHub/BasenjiOwnersManual/manuscript/references
-# biblio-nociteall: true
-
 biblatex:
   - sorting=none
   - style=authortitle

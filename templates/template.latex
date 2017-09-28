@@ -100,9 +100,12 @@ $if(graphics)$
   % Images get their normal width if they fit onto the page, but
   % are scaled down if they would overflow the margins.
   \makeatletter
+
+  \newcommand{\maxgraphicswidth}{$if(graphicsmaxwidth)$$graphicsmaxwidth$$else$0.9$endif$}
+
   \def\ScaleIfNeeded{%
-    \ifdim\Gin@nat@width>\linewidth
-      \linewidth
+    \ifdim\Gin@nat@width>\maxgraphicswidth\linewidth
+      \maxgraphicswidth\linewidth
     \else
       \Gin@nat@width
     \fi

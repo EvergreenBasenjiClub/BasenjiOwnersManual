@@ -351,7 +351,6 @@ Maintaining your Basenji's attention during the training session is of the utmos
 
 While you are working with your dog, choose simple brief commands that your dog can learn through repetition.  State the command words in a "commanding voice".  Do not question or ask the dog (Sit?) or threaten the dog to obey.  Only state the command one time.  Remember, "Sit, sit" is a "no no".  If your dog does not respond on the first command, think about the reason he is not responding.  This reason will dictate your response:
 
-{width="90%"}
 |Reason                     |Action                        |
 |---------------------------|------------------------------|
 |Does not know exercise well|Placement or guidance & praise|

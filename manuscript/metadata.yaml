@@ -46,9 +46,22 @@ citecolor: black
 urlcolor: black
 linkcolor: black
 
-natbib: true
-# bibliostyle: unsrtnat
-bibliostyle: fooo
-biblio-files: /Users/jreising/GitHub/BasenjiOwnersManual/manuscript/references
+# natbib: true
+# # bibliostyle: unsrtnat
+# bibliostyle: fooo
+# biblio-files: /Users/jreising/GitHub/BasenjiOwnersManual/manuscript/references
+# biblio-nociteall: true
+
+biblatex:
+  - sorting=none
+  - style=authortitle
+biblio-files:
+  - manuscript/references.bib
 biblio-nociteall: true
+biblio-title: Reference Library
+biblio-parts:
+  - type=mvcollection,title=Periodicals
+  - type=book,title=Books,prenote=books
+  - type=online,title=Internet,postnote=online
+  - type=misc,title=Fanconi Protocol,postnote=fanconi
 ---

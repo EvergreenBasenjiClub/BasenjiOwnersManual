@@ -29,7 +29,8 @@ Also, during the first few months of life, the pup should be protected from unne
 
 The following schedule of immunizations is a guideline based on a consensus of opinions of vets and breeders.  Using this schedule as a guideline, you should consult your breeder and your vet as to what vaccinations your pup has already had, what vaccinations should be given, and on what schedule.
 
-{title="Immunization Schedule", width="90%"}
+: Immunization Schedule
+
 |         |DHLP-PV or DA 2PL-PV|Parvo|Corona|Rabies|
 |---------|:------------------:|:---:|:----:|:----:|
 |PUPPIES  |                    |     |      |      |

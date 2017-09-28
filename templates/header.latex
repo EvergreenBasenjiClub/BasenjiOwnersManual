@@ -17,6 +17,7 @@
 
 \usepackage{index}
 \makeindex
+
 % \proofmodetrue
 
 % \usepackage{titlesec}
@@ -34,7 +35,51 @@
 %    \textcolor{chapterfg}{\thechapter}
 % S}
 
-% \addbibresource{references.bib}
+% \DeclareFieldFormat{title}{XXX #1 XXX}
+% \DeclareFieldFormat{year}{#1}
+
+% Put title before author in bibliography/references. This BibLaTeX magic was
+% lifted from: https://tex.stackexchange.com/questions/389293/title-first-in-bibliography-update-needed
+% ... and I have *no idea* how it works.  The original defined a command that
+% could be used to turn the behavior on and off.  We only need this for our
+% References section at the end, and thus can unroll the logic and hard-code
+% the result of calling \nameuse{false}.
+
+\def\do#1{\settoggle{blx@use#1}{false}}
+\dolistcsloop{blx@datamodel@names}
+
+\setlength{\bibitemsep}{\baselineskip}
+
+\defbibnote{books}{The following books are generally available at your local bookstore or through Amazon.com.  Another convenient source is through book vendors at dog shows.}
+
+\defbibnote{online}{... or search "basenji" to find many other Basenji sites.}
+
+\defbibnote{fanconi}{Many thanks to Steve Gonto for researching this protocol.}
+
+% our periodicals never have issues/dates...
+\renewbibmacro*{issue+date}{}
+
+
+%%
+%% custom macros for the intro form...
+%%
+
+\newlength{\formrulethickness}
+\setlength{\formrulethickness}{0.25pt}
+\newlength{\formrulelabelsep}
+\setlength{\formrulelabelsep}{0.25\baselineskip}
+\newlength{\formrulesep}
+\setlength{\formrulesep}{1.5\baselineskip}
+% \newcommand{\formlabelfont}{\tiny}
+
+\newcommand{\formrulelabel}[2]{%
+    \par\noindent
+    \rule{#2}{\formrulethickness}\par
+    \vspace{\dimexpr-\baselineskip+\formrulelabelsep}
+    \noindent{\small #1}\par
+    \vspace{\dimexpr-\baselineskip+\formrulesep}
+    % \addvspace{\baselineskip}
+}
 
 %%
 %% HEADER END

@@ -64,9 +64,12 @@ $if(natbib)$
 $endif$
 
 $if(biblatex)$
-  \usepackage{biblatex}
+  \usepackage[$for(biblatex)$$biblatex$$sep$,$endfor$]{biblatex}
   $if(biblio-files)$
-    \bibliography{$biblio-files$}
+    % \bibliography{$biblio-files$}
+    $for(biblio-files)$
+      \addbibresource{$biblio-files$}
+    $endfor$
   $endif$
 $endif$
 
@@ -239,7 +242,21 @@ $if(natbib)$
 $endif$
 
 $if(biblatex)$
-  \printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
+  $if(biblio-nociteall)$
+    \nocite{*}
+  $endif$
+  $if(biblio-list)$
+    \printbiblist$if(biblio-title)$[title=$biblio-title$]$endif$
+  $else$
+    $if(biblio-parts)$
+      \chapter{$if(biblio-title)$$biblio-title$$else$\bibname$endif$}
+      $for(biblio-parts)$
+        \printbibliography[heading=subbibliography,$biblio-parts$]
+      $endfor$
+    $else$
+      \printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
+    $endif$
+  $endif$
 $endif$
 
 $for(include-after)$

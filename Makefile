@@ -17,6 +17,9 @@ PANDOC_FLAGS = --from=markdown --to=latex
 LATEX = xelatex
 LATEX_FLAGS = -output-directory=$(outdir) --interaction=nonstopmode
 
+BIBLIO = biber
+# BIBLIO_FLAGS = -V
+
 INDEX = makeindex
 INDEX_FLAGS = -s ./templates/index.sty
 
@@ -39,11 +42,11 @@ sources = \
 	$(srcdir)/Ch3-Caring-For-Your-Basenji.md \
 	$(srcdir)/Ch4-Basenji-Activities.md \
 	$(srcdir)/Ch5-About-The-Evergreen-Basenji-Club.md \
-	$(srcdir)/Reference-Library.md \
+	# $(srcdir)/Reference-Library.md \
 
 frontsources = \
-	$(srcdir)/Introduction.md \
 	$(srcdir)/Your-Basenji.md \
+	$(srcdir)/Introduction.md \
 
 #backsources = \
 #	$(srcdir)/Reference-Library.md \
@@ -71,16 +74,11 @@ ifdef FINAL_PDF
   chaptercount = 99
 endif
 
-ifdef FINAL_PDF
 $(outdir)/frontmatter.latex: $(frontsources) | $(outdir)
 	$(PANDOC) \
 		$(PANDOC_FLAGS) \
 		--output=$@ \
 		$(frontsources)
-else
-$(outdir)/frontmatter.latex: | $(outdir)
-	touch $@
-endif
 
 # $(outdir)/backmatter.latex: $(backsources) | $(outdir)
 # 	$(PANDOC) \
@@ -96,8 +94,9 @@ ifdef FINAL_PDF
     ARG_FRONTMATTER = --include-before-body=$(outdir)/frontmatter.latex
 endif
 
-latex: clean $(outdir)/$(bookname).latex
-.PHONY: latex
+ifdef TEST_TABLES
+    ARG_FRONTMATTER = --include-before-body=$(outdir)/frontmatter.latex
+endif
 
 $(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(outdir)/frontmatter.latex $(backsources)
 	$(PANDOC) \
@@ -141,8 +140,8 @@ $(outdir)/$(bookname).latex: $(sources) $(templatefiles) $(outdir)/frontmatter.l
 ifdef FINAL_PDF
 	@echo ===== LaTeX: first pass... =====
 	-$(LATEX) $(LATEX_FLAGS) $^
-	#@echo ===== BibTeX pass... =====
-	bibtex $(basename $^)
+	@echo ===== BibLaTeX pass... =====
+	-$(BIBLIO) $(BIBLIO_FLAGS) $(basename $^)
 	@echo ===== LaTeX: second pass... =====
 	-$(LATEX) $(LATEX_FLAGS) $^
 	@echo ===== mkindex pass... =====
@@ -153,6 +152,18 @@ ifdef FINAL_PDF
 endif
 	@echo ===== LaTeX: final pass... =====
 	-$(LATEX) $(LATEX_FLAGS) $^
+
+# Other helpers...
+latex: clean $(outdir)/$(bookname).latex
+.PHONY: latex
+
+bibtest: clean bibonly
+
+bibonly: $(outdir)/$(bookname).latex
+	-$(LATEX) $(LATEX_FLAGS) $^
+	-$(BIBLIO) $(BIBLIO_FLAGS) $(basename $^)
+	-$(LATEX) $(LATEX_FLAGS) $^
+.PHONY: bibtest bibonly
 
 clean:
 	-rm -rfv $(outdir)

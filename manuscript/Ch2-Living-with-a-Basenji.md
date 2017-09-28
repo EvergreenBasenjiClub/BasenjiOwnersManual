@@ -113,7 +113,7 @@ A more subtle form of unintentional training occurs when we pet the puppy or dog
 
 This is a review of the system presented in the series _Super dogs are made, not born_, by Joyce O'Kelley, for developing and training puppies from birth.  The series appeared in the January through May 1979 issues of _The Basenji_.
 
-If you are interested in more information regarding the concepts the review is based on or more detail in regards to training procedures, those five issues are available for $9 from Susan Coe.  Also, further discussion of the so called "critical periods" of puppy development and the factors that contribute to each puppies individual personalities, can be found in _The art of raising a puppy_, by The Monks of New Skete.
+If you are interested in more information regarding the concepts the review is based on or more detail in regards to training procedures, those five issues are available for $9 from Susan Coe.  Also, further discussion of the so called "critical periods" of puppy development and the factors that contribute to each puppies individual personalities, can be found in _The Art of Raising a Puppy_, by The Monks of New Skete.
 
 
 ### Age: Birth through 3 weeks
@@ -124,6 +124,7 @@ Human \index{socialization}socialization:  None
 
 Canine \index{socialization}socialization:  Needs mother
 
+
 ### Age: 4th week
 
 Environment: Unchanged and unchanging
@@ -131,6 +132,7 @@ Environment: Unchanged and unchanging
 Human \index{socialization}socialization:  Gentle handling by humans
 
 Canine \index{socialization}socialization:  Begins socializing with litter mates
+
 
 ### Age: 5th through 7th week
 
@@ -140,17 +142,28 @@ Human \index{socialization}socialization: Continue handling and allow some visit
 
 Canine \index{socialization}socialization: Begin \index{weaning}weaning and feeding from dish, but allow mother access at other times for feeding and disciplining.
 
-### Training At 5 TO 7 Weeks:
 
-\index{housebreaking}Housebreaking:  Paper training begins with area to be used at reasonable location and well-lined with newspapers (or litter box).
+#### Training At 5 to 7 Weeks
+
+
+##### \index{housebreaking}Housebreaking
+
+Paper training begins with area to be used at reasonable location and well-lined with newspapers (or litter box).
 
 _**all other training requires frequent, regular, individual training sessions.**_
 
-Lead Training:  Fit with buckle collar and attach short piece of shoe string.  String may have to be replaced from time to time as other pups chew it off.
 
-Table Training: Place on table and gently examine and groom the pup (be sure to handle mouth, feet and testicles).
+##### Lead Training
 
-### \index{fetch}Fetch:
+Fit with buckle collar and attach short piece of shoe string.  String may have to be replaced from time to time as other pups chew it off.
+
+
+##### Table Training
+
+Place on table and gently examine and groom the pup (be sure to handle mouth, feet and testicles).
+
+
+##### \index{fetch}Fetch
 
 1. Start with whatever the pup is interested in (ball, sock, toy).
 
@@ -162,6 +175,7 @@ Table Training: Place on table and gently examine and groom the pup (be sure to 
 
 5. Always stop with the pup still wanting more.
 
+
 ### Age: 8th through 12th week
 
 Environment: Introduce to big, wide world to see and smell everything.  Avoid frightening new or painful experiences.
@@ -170,13 +184,15 @@ Human \index{socialization}socialization: Give lots of love and attention from a
 
 Canine \index{socialization}socialization: Remove from mother. Remove from litter mates or provide rotation system into pairs so that the companion of each pup changes every day.
 
-### Training at 8 to 12 weeks:
+
+#### Training at 8 to 12 weeks
 
 \index{housebreaking}Housebreaking: Progress to outside housebreaking.  Should be able to go all night.
 
 _**all other training should be daily, individual training sessions out of sight and sound of litter mates and mother and other distractions.  use positive, constructive approach. Never use "no" command during training sessions but teach the command and use substitution.**_
 
-### \index{substitution}Substitution:
+
+##### \index{substitution}Substitution
 
 1. Do not allow unacceptable behavior to be carried through; say _"No"_, substitute a correct behavior and praise.  Some substitutions can be toy or chewie for \index{chewing}chewing whatever; sit for jumping on people; down position for climbing on furniture.
 
@@ -186,7 +202,8 @@ _**all other training should be daily, individual training sessions out of sight
 
 4. At about 11 weeks the muzzle correction will no longer work.  At that time switch to the collar correction---grasp collar, give a small tug upward (do not lift pup's feet of the floor) release, substitute and praise.
 
-### \index{lead training}Lead Training:
+
+## \index{lead training}Lead Training
 
 1. Carry pup outside and put down, stand still and follow him about---no tugs, no pulling, nor force.
 
@@ -200,7 +217,8 @@ _**all other training should be daily, individual training sessions out of sight
 
   4. When he is sitting on command on the table and responding to leash control, put the two together and begin proper heeling exercises.
 
-### Sit, Stand, and Down:
+
+## Sit, Stand, and Down
 
 1. Five minute session on grooming table.
 

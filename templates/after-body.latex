@@ -15,8 +15,10 @@
 
 \cleardoublepage
 \phantomsection
+
 %\addcontentsline{toc}{chapter}{Index}
-\pagestyle{Index}
+% \pagestyle{Index}
+
 % \usepackage{ltxdoc} <-- doesn't work in preamble!
 % \newcommand{\pfill}{, }
 \def\pfill{\unskip~\dotfill\penalty500
